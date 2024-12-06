@@ -1,0 +1,35 @@
+# TODO: add papers by configuration file
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "hhhh1138"
+repo_name: "cv-arxiv-daily"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 100
+
+publish_readme: True
+publish_gitpage: False
+publish_wechat: False
+
+# file paths
+black_list_path: 'blacklists.txt'
+recent_trend_path: './pdf_analysis/recent_trends.txt'
+json_readme_path: './docs/cv-arxiv-daily.json'
+json_gitpage_path: './docs/cv-arxiv-daily-web.json'
+json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
+
+md_readme_path: 'README.md'
+claudeai_path: 'analysis_by_ai.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+# keywords to search
+keywords:
+    "Poster Generation": 
+        filters: ["Poster Generation", "Scientific Poster", "Academic Poster", "Poster", "Poster Generator"]
+    "Slides Generation":
+        filters: ["Slide Generation",  "Slides Generation", "Presentation Slides", "Slides Generator"]
+    "Layout Generation": 
+        filters: ["Layout Generation", "Layout Generator", "Text to Layout"]
+    #"Image Animation":
+        #filters: ["Image Animator", "Image Animation"]
