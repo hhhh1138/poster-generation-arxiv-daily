@@ -5,7 +5,7 @@
 
 # Video-Restoration Research Papers (With GPT Analysis)
 ### Automatically Updated on 2024.12.06
-Current Search Keywords: `Video Restoration`, `Video Enhancement`, `Video Face Super Resolution`, `Video Super Resolution`, `Face Restoration`, `Video Deblurring`, `Video Denoising`, `Video Deflickering`
+Current Search Keywords: `Poster Generaton`, `Slides Generation`
 
 > If you have any other keywords, please feel free to let us know :) 
 
@@ -40,166 +40,183 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#video-restoration>Video Restoration</a></li>
+    <li><a href=#poster-generation>Poster Generation</a></li>
+    <li><a href=#slides-generation>Slides Generation</a></li>
+    <li><a href=#layout-generation>Layout Generation</a></li>
   </ol>
 </details>
 
-## Video Restoration
+## Poster Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-02**|**Adaptive High-Pass Kernel Prediction for Efficient Video Deblurring**|Bo Ji et.al.|[2412.01559](http://arxiv.org/abs/2412.01559)|**[link](https://github.com/jibo27/ahfnet)**|
-|**2024-12-01**|**DIVD: Deblurring with Improved Video Diffusion Model**|Haoyang Long et.al.|[2412.00773](http://arxiv.org/abs/2412.00773)|null|
-|**2024-11-27**|**DiffMVR: Diffusion-based Automated Multi-Guidance Video Restoration**|Zheyan Zhang et.al.|[2411.18745](http://arxiv.org/abs/2411.18745)|null|
-|**2024-11-26**|**OSDFace: One-Step Diffusion Model for Face Restoration**|Jingkai Wang et.al.|[2411.17163](http://arxiv.org/abs/2411.17163)|**[link](https://github.com/jkwang28/osdface)**|
-|**2024-11-25**|**Efficient Video Face Enhancement with Enhanced Spatial-Temporal Consistency**|Yutong Wang et.al.|[2411.16468](http://arxiv.org/abs/2411.16468)|**[link](https://github.com/dixin-lab/bfvr-stc)**|
-|**2024-11-24**|**Towards Unsupervised Blind Face Restoration using Diffusion Prior**|Tianshu Kuai et.al.|[2410.04618](http://arxiv.org/abs/2410.04618)|null|
-|**2024-11-23**|**Efficient Diffusion Model for Image Restoration by Residual Shifting**|Zongsheng Yue et.al.|[2403.07319](http://arxiv.org/abs/2403.07319)|**[link](https://github.com/zsyoaoa/resshift)**|
-|**2024-11-21**|**RestorerID: Towards Tuning-Free Face Restoration with ID Preservation**|Jiacheng Ying et.al.|[2411.14125](http://arxiv.org/abs/2411.14125)|**[link](https://github.com/yingjiacheng/restorerid)**|
-|**2024-11-20**|**RTSR: A Real-Time Super-Resolution Model for AV1 Compressed Content**|Yuxuan Jiang et.al.|[2411.13362](http://arxiv.org/abs/2411.13362)|null|
-|**2024-11-15**|**DR-BFR: Degradation Representation with Diffusion Models for Blind Face Restoration**|Xinmin Qiu et.al.|[2411.10508](http://arxiv.org/abs/2411.10508)|null|
-|**2024-11-15**|**Quanta Video Restoration**|Prateek Chennuri et.al.|[2410.14994](http://arxiv.org/abs/2410.14994)|**[link](https://github.com/chennuriprateek/Quanta_Video_Restoration-QUIVER-)**|
-|**2024-11-11**|**360-Degree Video Super Resolution and Quality Enhancement Challenge: Methods and Results**|Ahmed Telili et.al.|[2411.06738](http://arxiv.org/abs/2411.06738)|null|
-|**2024-11-08**|**UnDIVE: Generalized Underwater Video Enhancement Using Generative Priors**|Suhas Srinath et.al.|[2411.05886](http://arxiv.org/abs/2411.05886)|**[link](https://github.com/suhas-srinath/undive)**|
-|**2024-10-26**|**SeeClear: Semantic Distillation Enhances Pixel Condensation for Video Super-Resolution**|Qi Tang et.al.|[2410.05799](http://arxiv.org/abs/2410.05799)|**[link](https://github.com/tang1705/seeclear-neurips24)**|
-|**2024-10-22**|**Warped Diffusion: Solving Video Inverse Problems with Image Diffusion Models**|Giannis Daras et.al.|[2410.16152](http://arxiv.org/abs/2410.16152)|null|
-|**2024-10-20**|**Quality Prediction of AI Generated Images and Videos: Emerging Trends and Opportunities**|Abhijay Ghildyal et.al.|[2410.08534](http://arxiv.org/abs/2410.08534)|null|
-|**2024-10-15**|**Analysis and Benchmarking of Extending Blind Face Image Restoration to Videos**|Zhouxia Wang et.al.|[2410.11828](http://arxiv.org/abs/2410.11828)|null|
-|**2024-10-15**|**Spatio-Temporal Distortion Aware Omnidirectional Video Super-Resolution**|Hongyu An et.al.|[2410.11506](http://arxiv.org/abs/2410.11506)|**[link](https://github.com/nichenxingmeng/STDAN)**|
-|**2024-10-15**|**Learning Truncated Causal History Model for Video Restoration**|Amirhosein Ghasemabadi et.al.|[2410.03936](http://arxiv.org/abs/2410.03936)|**[link](https://github.com/Ascend-Research/Turtle)**|
-|**2024-10-13**|**AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior**|Guoqiang Liang et.al.|[2410.09864](http://arxiv.org/abs/2410.09864)|**[link](https://github.com/ethanliang99/authface)**|
-|**2024-10-10**|**RMT-BVQA: Recurrent Memory Transformer-based Blind Video Quality Assessment for Enhanced Video Content**|Tianhao Peng et.al.|[2405.08621](http://arxiv.org/abs/2405.08621)|null|
-|**2024-10-05**|**AIM 2024 Challenge on Video Super-Resolution Quality Assessment: Methods and Results**|Ivan Molodetskikh et.al.|[2410.04225](http://arxiv.org/abs/2410.04225)|null|
-|**2024-10-05**|**Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model**|Keda Tao et.al.|[2410.04161](http://arxiv.org/abs/2410.04161)|null|
-|**2024-10-04**|**DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models**|Chang-Han Yeh et.al.|[2407.01519](http://arxiv.org/abs/2407.01519)|**[link](https://github.com/jimmycv07/DiffIR2VR-Zero)**|
-|**2024-10-03**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|Peng Wang et.al.|[2409.12191](http://arxiv.org/abs/2409.12191)|**[link](https://github.com/qwenlm/qwen2-vl)**|
-|**2024-09-30**|**DeTurb: Atmospheric Turbulence Mitigation with Deformable 3D Convolutions and 3D Swin Transformers**|Zhicheng Zou et.al.|[2407.20855](http://arxiv.org/abs/2407.20855)|null|
-|**2024-09-25**|**AIM 2024 Challenge on Efficient Video Super-Resolution for AV1 Compressed Content**|Marcos V Conde et.al.|[2409.17256](http://arxiv.org/abs/2409.17256)|null|
-|**2024-09-13**|**Optimizing 4D Lookup Table for Low-light Video Enhancement via Wavelet Priori**|Jinhong He et.al.|[2409.08585](http://arxiv.org/abs/2409.08585)|null|
-|**2024-09-12**|**3D Priors-Guided Diffusion for Blind Face Restoration**|Xiaobin Lu et.al.|[2409.00991](http://arxiv.org/abs/2409.00991)|**[link](https://github.com/838143396/3Diffusion)**|
-|**2024-09-12**|**From Sim-to-Real: Toward General Event-based Low-light Frame Interpolation with Per-scene Optimization**|Ziran Zhang et.al.|[2406.08090](http://arxiv.org/abs/2406.08090)|null|
-|**2024-09-02**|**DAVIDE: Depth-Aware Video Deblurring**|German F. Torres et.al.|[2409.01274](http://arxiv.org/abs/2409.01274)|null|
-|**2024-09-01**|**VDPI: Video Deblurring with Pseudo-inverse Modeling**|Zhihao Huang et.al.|[2409.00777](http://arxiv.org/abs/2409.00777)|null|
-|**2024-08-29**|**EvLight++: Low-Light Video Enhancement with an Event Camera: A Large-Scale Real-World Dataset, Novel Method, and More**|Kanghao Chen et.al.|[2408.16254](http://arxiv.org/abs/2408.16254)|null|
-|**2024-08-28**|**CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring**|Taewoo Kim et.al.|[2408.14930](http://arxiv.org/abs/2408.14930)|**[link](https://github.com/intelpro/cmta)**|
-|**2024-08-27**|**Towards Real-world Event-guided Low-light Video Enhancement and Deblurring**|Taewoo Kim et.al.|[2408.14916](http://arxiv.org/abs/2408.14916)|**[link](https://github.com/intelpro/elednet)**|
-|**2024-08-26**|**Cascaded Temporal Updating Network for Efficient Video Super-Resolution**|Hao Li et.al.|[2408.14244](http://arxiv.org/abs/2408.14244)|null|
-|**2024-08-24**|**Frontal Slice Approaches for Tensor Linear Systems**|Hengrui Luo et.al.|[2408.13547](http://arxiv.org/abs/2408.13547)|null|
-|**2024-08-24**|**Rethinking Video Deblurring with Wavelet-Aware Dynamic Transformer and Diffusion Model**|Chen Rao et.al.|[2408.13459](http://arxiv.org/abs/2408.13459)|**[link](https://github.com/chen-rao/vd-diff)**|
-|**2024-08-22**|**Adapting MIMO video restoration networks to low latency constraints**|Valéry Dewil et.al.|[2408.12439](http://arxiv.org/abs/2408.12439)|null|
-|**2024-08-22**|**Unrolled Decomposed Unpaired Learning for Controllable Low-Light Video Enhancement**|Lingyu Zhu et.al.|[2408.12316](http://arxiv.org/abs/2408.12316)|**[link](https://github.com/lingyzhu0101/udu)**|
-|**2024-08-20**|**MagicID: Flexible ID Fidelity Generation System**|Zhaoli Deng et.al.|[2408.09248](http://arxiv.org/abs/2408.09248)|null|
-|**2024-08-20**|**Compression-Realized Deep Structural Network for Video Quality Enhancement**|Hanchi Sun et.al.|[2405.06342](http://arxiv.org/abs/2405.06342)|null|
-|**2024-08-14**|**GQE: Generalized Query Expansion for Enhanced Text-Video Retrieval**|Zechen Bai et.al.|[2408.07249](http://arxiv.org/abs/2408.07249)|null|
-|**2024-08-09**|**Kalman-Inspired Feature Propagation for Video Face Super-Resolution**|Ruicheng Feng et.al.|[2408.05205](http://arxiv.org/abs/2408.05205)|null|
-|**2024-08-08**|**Physical prior guided cooperative learning framework for joint turbulence degradation estimation and infrared video restoration**|Ziran Zhang et.al.|[2408.04227](http://arxiv.org/abs/2408.04227)|null|
-|**2024-07-29**|**FreeLong: Training-Free Long Video Generation with SpectralBlend Temporal Attention**|Yu Lu et.al.|[2407.19918](http://arxiv.org/abs/2407.19918)|null|
-|**2024-07-28**|**BVI-RLV: A Fully Registered Dataset and Benchmarks for Low-Light Video Enhancement**|Ruirui Lin et.al.|[2407.03535](http://arxiv.org/abs/2407.03535)|null|
-|**2024-07-26**|**PIV3CAMS: a multi-camera dataset for multiple computer vision problems and its application to novel view-point synthesis**|Sohyeong Kim et.al.|[2407.18695](http://arxiv.org/abs/2407.18695)|null|
-|**2024-07-24**|**Cuboid-Net: A Multi-Branch Convolutional Neural Network for Joint Space-Time Video Super Resolution**|Congrui Fu et.al.|[2407.16986](http://arxiv.org/abs/2407.16986)|null|
-|**2024-07-24**|**3DAttGAN: A 3D Attention-based Generative Adversarial Network for Joint Space-Time Video Super-Resolution**|Congrui Fu et.al.|[2407.16965](http://arxiv.org/abs/2407.16965)|**[link](https://github.com/fcongrui/3dattgan)**|
-|**2024-07-19**|**RealViformer: Investigating Attention for Real-World Video Super-Resolution**|Yuehan Zhang et.al.|[2407.13987](http://arxiv.org/abs/2407.13987)|**[link](https://github.com/yuehan717/realviformer)**|
-|**2024-07-17**|**Sphere Window: Challenges and Opportunities of 360° Video in Collaborative Design Workshops**|Wo Meijer et.al.|[2407.12407](http://arxiv.org/abs/2407.12407)|null|
-|**2024-07-16**|**Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models**|Claudio Rota et.al.|[2311.15908](http://arxiv.org/abs/2311.15908)|**[link](https://github.com/claudiom4sir/stablevsr)**|
-|**2024-07-14**|**Noise Calibration: Plug-and-play Content-Preserving Video Enhancement using Pre-trained Video Diffusion Models**|Qinyu Yang et.al.|[2407.10285](http://arxiv.org/abs/2407.10285)|**[link](https://github.com/yangqy1110/nc-sdedit)**|
-|**2024-07-13**|**Arbitrary-Scale Video Super-Resolution with Structural and Textural Priors**|Wei Shang et.al.|[2407.09919](http://arxiv.org/abs/2407.09919)|**[link](https://github.com/shangwei5/st-avsr)**|
-|**2024-07-12**|**Domain-adaptive Video Deblurring via Test-time Blurring**|Jin-Ting He et.al.|[2407.09059](http://arxiv.org/abs/2407.09059)|**[link](https://github.com/jin-ting-he/dadeblur)**|
-|**2024-07-12**|**A Spatio-temporal Aligned SUNet Model for Low-light Video Enhancement**|Ruirui Lin et.al.|[2403.02408](http://arxiv.org/abs/2403.02408)|null|
-|**2024-07-12**|**Motion-Guided Latent Diffusion for Temporally Consistent Real-world Video Super-resolution**|Xi Yang et.al.|[2312.00853](http://arxiv.org/abs/2312.00853)|**[link](https://github.com/ianyeung/mgld-vsr)**|
-|**2024-07-11**|**Global Spatial-Temporal Information-based Residual ConvLSTM for Video Space-Time Super-Resolution**|Congrui Fu et.al.|[2407.08466](http://arxiv.org/abs/2407.08466)|null|
-|**2024-07-10**|**VEnhancer: Generative Space-Time Enhancement for Video Generation**|Jingwen He et.al.|[2407.07667](http://arxiv.org/abs/2407.07667)|null|
-|**2024-07-10**|**MNeRV: A Multilayer Neural Representation for Videos**|Qingling Chang et.al.|[2407.07347](http://arxiv.org/abs/2407.07347)|**[link](https://github.com/aaronbtb/mnerv)**|
-|**2024-07-10**|**DaBiT: Depth and Blur informed Transformer for Joint Refocusing and Super-Resolution**|Crispian Morris et.al.|[2407.01230](http://arxiv.org/abs/2407.01230)|null|
-|**2024-07-02**|**Zero-shot Video Restoration and Enhancement Using Pre-Trained Image Diffusion Model**|Cong Cao et.al.|[2407.01960](http://arxiv.org/abs/2407.01960)|null|
-|**2024-06-24**|**Improving Generative Adversarial Networks for Video Super-Resolution**|Daniel Wen et.al.|[2406.16359](http://arxiv.org/abs/2406.16359)|null|
-|**2024-06-21**|**LU2Net: A Lightweight Network for Real-time Underwater Image Enhancement**|Haodong Yang et.al.|[2406.14973](http://arxiv.org/abs/2406.14973)|null|
-|**2024-06-19**|**EvTexture: Event-driven Texture Enhancement for Video Super-Resolution**|Dachun Kai et.al.|[2406.13457](http://arxiv.org/abs/2406.13457)|**[link](https://github.com/dachunkai/evtexture)**|
-|**2024-06-15**|**Fast Unsupervised Tensor Restoration via Low-rank Deconvolution**|David Reixach et.al.|[2406.10679](http://arxiv.org/abs/2406.10679)|null|
-|**2024-06-11**|**Blur-aware Spatio-temporal Sparse Transformer for Video Deblurring**|Huicong Zhang et.al.|[2406.07551](http://arxiv.org/abs/2406.07551)|**[link](https://github.com/huicongzhang/bsstnet)**|
-|**2024-06-11**|**Missingness-resilient Video-enhanced Multimodal Disfluency Detection**|Payal Mohapatra et.al.|[2406.06964](http://arxiv.org/abs/2406.06964)|**[link](https://github.com/payalmohapatra/Multimodal-Speech-Disfluency)**|
-|**2024-05-28**|**Disentangling Foreground and Background Motion for Enhanced Realism in Human Video Generation**|Jinlin Liu et.al.|[2405.16393](http://arxiv.org/abs/2405.16393)|null|
-|**2024-05-25**|**BVI-Lowlight: Fully Registered Benchmark Dataset for Low-Light Video Enhancement**|Nantheera Anantrasirichai et.al.|[2402.01970](http://arxiv.org/abs/2402.01970)|**[link](https://github.com/lrr-rachel/PCDUNet)**|
-|**2024-05-24**|**Low-Light Video Enhancement via Spatial-Temporal Consistent Illumination and Reflection Decomposition**|Xiaogang Xu et.al.|[2405.15660](http://arxiv.org/abs/2405.15660)|null|
-|**2024-05-24**|**Distinguish Any Fake Videos: Unleashing the Power of Large-scale Data and Motion Features**|Lichuan Ji et.al.|[2405.15343](http://arxiv.org/abs/2405.15343)|null|
-|**2024-05-22**|**HR-INR: Continuous Space-Time Video Super-Resolution via Event Camera**|Yunfan Lu et.al.|[2405.13389](http://arxiv.org/abs/2405.13389)|null|
-|**2024-05-22**|**Uncovering Hidden Connections: Iterative Search and Reasoning for Video-grounded Dialog**|Haoyu Zhang et.al.|[2310.07259](http://arxiv.org/abs/2310.07259)|**[link](https://github.com/hyu-zhang/itr)**|
-|**2024-05-15**|**Illumination Histogram Consistency Metric for Quantitative Assessment of Video Sequences**|Long Chen et.al.|[2405.09716](http://arxiv.org/abs/2405.09716)|**[link](https://github.com/longchencv/ihc-metric)**|
-|**2024-05-14**|**Light-VQA+: A Video Quality Assessment Model for Exposure Correction with Vision-Language Guidance**|Xunchu Zhou et.al.|[2405.03333](http://arxiv.org/abs/2405.03333)|**[link](https://github.com/SaMMyCHoo/Light-VQA-plus)**|
-|**2024-05-04**|**Towards Real-world Video Face Restoration: A New Benchmark**|Ziyan Chen et.al.|[2404.19500](http://arxiv.org/abs/2404.19500)|null|
-|**2024-05-01**|**VideoGigaGAN: Towards Detail-rich Video Super-Resolution**|Yiran Xu et.al.|[2404.12388](http://arxiv.org/abs/2404.12388)|null|
-|**2024-04-27**|**UVEB: A Large-scale Benchmark and Baseline Towards Real-World Underwater Video Enhancement**|Yaofeng Xie et.al.|[2404.14542](http://arxiv.org/abs/2404.14542)|**[link](https://github.com/yzbouc/uveb)**|
-|**2024-04-23**|**SC-HVPPNet: Spatial and Channel Hybrid-Attention Video Post-Processing Network with CNN and Transformer**|Tong Zhang et.al.|[2404.14709](http://arxiv.org/abs/2404.14709)|null|
-|**2024-04-21**|**Beyond Alignment: Blind Video Face Restoration via Parsing-Guided Temporal-Coherent Transformer**|Kepeng Xu et.al.|[2404.13640](http://arxiv.org/abs/2404.13640)|**[link](https://github.com/kepengxu/pgtformer)**|
-|**2024-04-21**|**Turb-Seg-Res: A Segment-then-Restore Pipeline for Dynamic Videos with Atmospheric Turbulence**|Ripon Kumar Saha et.al.|[2404.13605](http://arxiv.org/abs/2404.13605)|null|
-|**2024-04-12**|**DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior**|Xinqi Lin et.al.|[2308.15070](http://arxiv.org/abs/2308.15070)|**[link](https://github.com/xpixelgroup/diffbir)**|
-|**2024-04-11**|**DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation**|Guosheng Zhao et.al.|[2403.06845](http://arxiv.org/abs/2403.06845)|null|
-|**2024-04-09**|**Space-Time Video Super-resolution with Neural Operator**|Yuantong Zhang et.al.|[2404.06036](http://arxiv.org/abs/2404.06036)|null|
-|**2024-04-06**|**Collaborative Feedback Discriminative Propagation for Video Super-Resolution**|Hao Li et.al.|[2404.04745](http://arxiv.org/abs/2404.04745)|**[link](https://github.com/house-leo/cfdvsr)**|
-|**2024-04-03**|**Translation-based Video-to-Video Synthesis**|Pratim Saha et.al.|[2404.04283](http://arxiv.org/abs/2404.04283)|null|
-|**2024-04-03**|**Effective Adapter for Face Recognition in the Wild**|Yunhao Liu et.al.|[2312.01734](http://arxiv.org/abs/2312.01734)|null|
-|**2024-03-29**|**Binarized Low-light Raw Video Enhancement**|Gengchen Zhang et.al.|[2403.19944](http://arxiv.org/abs/2403.19944)|**[link](https://github.com/ying-fu/brve)**|
-|**2024-03-29**|**Video Super-Resolution Transformer with Masked Inter&Intra-Frame Attention**|Xingyu Zhou et.al.|[2401.06312](http://arxiv.org/abs/2401.06312)|**[link](https://github.com/labshuhanggu/mia-vsr)**|
-|**2024-03-28**|**FMA-Net: Flow-Guided Dynamic Filtering and Iterative Feature Refinement with Multi-Attention for Joint Video Super-Resolution and Deblurring**|Geunhyuk Youk et.al.|[2401.03707](http://arxiv.org/abs/2401.03707)|null|
-|**2024-03-25**|**Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution**|Zhikai Chen et.al.|[2403.17000](http://arxiv.org/abs/2403.17000)|null|
-|**2024-03-23**|**Time-series Initialization and Conditioning for Video-agnostic Stabilization of Video Super-Resolution using Recurrent Networks**|Hiroshi Mori et.al.|[2403.15832](http://arxiv.org/abs/2403.15832)|null|
-|**2024-03-21**|**StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text**|Roberto Henschel et.al.|[2403.14773](http://arxiv.org/abs/2403.14773)|**[link](https://github.com/picsart-ai-research/streamingt2v)**|
-|**2024-03-19**|**WaveFace: Authentic Face Restoration with Efficient Frequency Recovery**|Yunqi Miao et.al.|[2403.12760](http://arxiv.org/abs/2403.12760)|null|
-|**2024-03-19**|**Improving Visual Quality and Transferability of Adversarial Attacks on Face Recognition Simultaneously with Adversarial Restoration**|Fengfan Zhou et.al.|[2309.01582](http://arxiv.org/abs/2309.01582)|null|
-|**2024-03-18**|**End-To-End Underwater Video Enhancement: Dataset and Model**|Dazhao Du et.al.|[2403.11506](http://arxiv.org/abs/2403.11506)|**[link](https://github.com/ddz16/UVENet)**|
-|**2024-03-18**|**Towards Real-World Blind Face Restoration with Generative Diffusion Prior**|Xiaoxu Chen et.al.|[2312.15736](http://arxiv.org/abs/2312.15736)|**[link](https://github.com/chenxx89/bfrffusion)**|
-|**2024-03-15**|**DiffMAC: Diffusion Manifold Hallucination Correction for High Generalization Blind Face Restoration**|Nan Gao et.al.|[2403.10098](http://arxiv.org/abs/2403.10098)|null|
-|**2024-03-13**|**PFStorer: Personalized Face Restoration and Super-Resolution**|Tuomas Varanka et.al.|[2403.08436](http://arxiv.org/abs/2403.08436)|null|
-|**2024-03-11**|**AS-FIBA: Adaptive Selective Frequency-Injection for Backdoor Attack on Deep Face Restoration**|Zhenbo Song et.al.|[2403.06430](http://arxiv.org/abs/2403.06430)|null|
-|**2024-03-10**|**BlazeBVD: Make Scale-Time Equalization Great Again for Blind Video Deflickering**|Xinmin Qiu et.al.|[2403.06243](http://arxiv.org/abs/2403.06243)|null|
-|**2024-03-10**|**Learning Exposure Correction in Dynamic Scenes**|Jin Liu et.al.|[2402.17296](http://arxiv.org/abs/2402.17296)|**[link](https://github.com/kravrolens/vecnet)**|
-|**2024-03-08**|**Decoupling Degradations with Recurrent Network for Video Restoration in Under-Display Camera**|Chengxu Liu et.al.|[2403.05660](http://arxiv.org/abs/2403.05660)|**[link](https://github.com/chengxuliu/ddrnet)**|
-|**2024-02-29**|**BFRFormer: Transformer-based generator for Real-World Blind Face Restoration**|Guojing Ge et.al.|[2402.18811](http://arxiv.org/abs/2402.18811)|null|
-|**2024-02-08**|**CLR-Face: Conditional Latent Refinement for Blind Face Restoration Using Score-Based Diffusion Models**|Maitreya Suin et.al.|[2402.06106](http://arxiv.org/abs/2402.06106)|null|
-|**2024-02-05**|**Video Super-Resolution for Optimized Bitrate and Green Online Streaming**|Vignesh V Menon et.al.|[2402.03513](http://arxiv.org/abs/2402.03513)|null|
-|**2024-01-26**|**VJT: A Video Transformer on Joint Tasks of Deblurring, Low-light Enhancement and Denoising**|Yuxiang Hui et.al.|[2401.14754](http://arxiv.org/abs/2401.14754)|null|
-|**2024-01-21**|**Dual Associated Encoder for Face Restoration**|Yu-Ju Tsai et.al.|[2308.07314](http://arxiv.org/abs/2308.07314)|**[link](https://github.com/LIAGM/DAEFR)**|
-|**2024-01-19**|**Semantic Lens: Instance-Centric Semantic Alignment for Video Super-Resolution**|Qi Tang et.al.|[2312.07823](http://arxiv.org/abs/2312.07823)|**[link](https://github.com/Tang1705/Semantic-Lens-AAAI24)**|
-|**2024-01-18**|**Inflation with Diffusion: Efficient Temporal Adaptation for Text-to-Video Super-Resolution**|Xin Yuan et.al.|[2401.10404](http://arxiv.org/abs/2401.10404)|null|
-|**2024-01-13**|**Deep Blind Super-Resolution for Satellite Video**|Yi Xiao et.al.|[2401.07139](http://arxiv.org/abs/2401.07139)|**[link](https://github.com/xy-boy/blind-satellite-vsr)**|
-|**2024-01-13**|**ENTED: Enhanced Neural Texture Extraction and Distribution for Reference-based Blind Face Restoration**|Yuen-Fui Lau et.al.|[2401.06978](http://arxiv.org/abs/2401.06978)|null|
-|**2023-12-30**|**A Survey on Super Resolution for video Enhancement Using GAN**|Ankush Maity et.al.|[2312.16471](http://arxiv.org/abs/2312.16471)|null|
-|**2023-12-26**|**Geometric-Aware Low-Light Image and Video Enhancement via Depth Guidance**|Yingqi Lin et.al.|[2312.15855](http://arxiv.org/abs/2312.15855)|null|
-|**2023-12-25**|**Toward Accurate and Temporally Consistent Video Restoration from Raw Data**|Shi Guo et.al.|[2312.16247](http://arxiv.org/abs/2312.16247)|**[link](https://github.com/guoshi28/vjdd)**|
-|**2023-12-22**|**ViStripformer: A Token-Efficient Transformer for Versatile Video Restoration**|Fu-Jen Tsai et.al.|[2312.14502](http://arxiv.org/abs/2312.14502)|null|
-|**2023-12-18**|**TMP: Temporal Motion Propagation for Online Video Super-Resolution**|Zhengqiang Zhang et.al.|[2312.09909](http://arxiv.org/abs/2312.09909)|**[link](https://github.com/xtudbxk/tmp)**|
-|**2023-12-13**|**EventAid: Benchmarking Event-aided Image/Video Enhancement Algorithms with Real-captured Hybrid Dataset**|Peiqi Duan et.al.|[2312.08220](http://arxiv.org/abs/2312.08220)|null|
-|**2023-12-13**|**Video Dynamics Prior: An Internal Learning Approach for Robust Video Enhancements**|Gaurav Shrivastava et.al.|[2312.07835](http://arxiv.org/abs/2312.07835)|null|
-|**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662](http://arxiv.org/abs/2312.06662)|null|
-|**2023-12-11**|**Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution**|Shangchen Zhou et.al.|[2312.06640](http://arxiv.org/abs/2312.06640)|null|
-|**2023-12-11**|**Cross-Consistent Deep Unfolding Network for Adaptive All-In-One Video Restoration**|Yuanshuo Cheng et.al.|[2309.01627](http://arxiv.org/abs/2309.01627)|null|
-|**2023-12-10**|**RBPGAN: Recurrent Back-Projection GAN for Video Super Resolution**|Marwah Sulaiman et.al.|[2311.09178](http://arxiv.org/abs/2311.09178)|null|
-|**2023-12-07**|**ConVRT: Consistent Video Restoration Through Turbulence with Test-time Optimization of Neural Video Representations**|Haoming Cai et.al.|[2312.04679](http://arxiv.org/abs/2312.04679)|null|
-|**2023-12-04**|**Peer attention enhances student learning**|Songlin Xu et.al.|[2312.02358](http://arxiv.org/abs/2312.02358)|**[link](https://github.com/songlinxu/peeredu)**|
-|**2023-12-01**|**Blind Face Restoration for Under-Display Camera via Dictionary Guided Transformer**|Jingfan Tan et.al.|[2308.10196](http://arxiv.org/abs/2308.10196)|null|
-|**2023-11-27**|**Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution**|Zhewei Huang et.al.|[2310.17294](http://arxiv.org/abs/2310.17294)|**[link](https://github.com/megvii-research/wacv2024-safa)**|
-|**2023-11-26**|**FLAIR: A Conditional Diffusion Framework with Applications to Face Video Restoration**|Zihao Zou et.al.|[2311.15445](http://arxiv.org/abs/2311.15445)|null|
-|**2023-11-23**|**VCISR: Blind Single Image Super-Resolution with Video Compression Synthetic Data**|Boyang Wang et.al.|[2311.00996](http://arxiv.org/abs/2311.00996)|**[link](https://github.com/kiteretsu77/vcisr-official)**|
-|**2023-11-15**|**FastBlend: a Powerful Model-Free Toolkit Making Video Stylization Easier**|Zhongjie Duan et.al.|[2311.09265](http://arxiv.org/abs/2311.09265)|**[link](https://github.com/artiprocher/sd-webui-fastblend)**|
-|**2023-11-08**|**An End-Cloud Computing Enabled Surveillance Video Transmission System**|Dingxi Yang et.al.|[2311.04685](http://arxiv.org/abs/2311.04685)|null|
-|**2023-11-07**|**Restoration of Analog Videos Using Swin-UNet**|Lorenzo Agnolucci et.al.|[2311.04261](http://arxiv.org/abs/2311.04261)|**[link](https://github.com/miccunifi/analog-video-restoration)**|
-|**2023-11-03**|**Reference-based Restoration of Digitized Analog Videotapes**|Lorenzo Agnolucci et.al.|[2310.14926](http://arxiv.org/abs/2310.14926)|**[link](https://github.com/miccunifi/tape)**|
-|**2023-10-18**|**HSTR-Net: Reference Based Video Super-resolution for Aerial Surveillance with Dual Cameras**|H. Umut Suluhan et.al.|[2310.12092](http://arxiv.org/abs/2310.12092)|null|
-|**2023-10-17**|**Video Super-Resolution Using a Grouped Residual in Residual Network**|MohammadHossein Ashoori et.al.|[2310.11276](http://arxiv.org/abs/2310.11276)|null|
-|**2023-10-09**|**Survey on Deep Face Restoration: From Non-blind to Blind and Beyond**|Wenjie Li et.al.|[2309.15490](http://arxiv.org/abs/2309.15490)|**[link](https://github.com/24wenjie-li/awesome-face-restoration)**|
-|**2023-10-02**|**A New Real-World Video Dataset for the Comparison of Defogging Algorithms**|Alexandra Duminil et.al.|[2310.01020](http://arxiv.org/abs/2310.01020)|null|
-|**2023-09-27**|**VideoAdviser: Video Knowledge Distillation for Multimodal Transfer Learning**|Yanan Wang et.al.|[2309.15494](http://arxiv.org/abs/2309.15494)|null|
-|**2023-09-27**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103](http://arxiv.org/abs/2309.15103)|**[link](https://github.com/Vchitect/LaVie)**|
-|**2023-09-25**|**A Lightweight Recurrent Grouping Attention Network for Video Super-Resolution**|Yonggui Zhu et.al.|[2309.13940](http://arxiv.org/abs/2309.13940)|**[link](https://github.com/karlygzhu/rgan)**|
-|**2023-09-25**|**Fill the K-Space and Refine the Image: Prompting for Dynamic and Multi-Contrast MRI Reconstruction**|Bingyu Xin et.al.|[2309.13839](http://arxiv.org/abs/2309.13839)|**[link](https://github.com/hellopipu/promptmr)**|
-|**2023-09-19**|**PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance**|Peiqing Yang et.al.|[2309.10810](http://arxiv.org/abs/2309.10810)|**[link](https://github.com/pq-yang/pgdiff)**|
-|**2023-09-14**|**HDTR-Net: A Real-Time High-Definition Teeth Restoration Network for Arbitrary Talking Face Generation Methods**|Yongyuan Li et.al.|[2309.07495](http://arxiv.org/abs/2309.07495)|**[link](https://github.com/yylgoodlucky/hdtr)**|
-|**2023-09-13**|**Aggregating Long-term Sharp Features via Hybrid Transformers for Video Deblurring**|Dongwei Ren et.al.|[2309.07054](http://arxiv.org/abs/2309.07054)|**[link](https://github.com/shangwei5/stgtn)**|
-|**2023-09-09**|**Deep Video Restoration for Under-Display Camera**|Xuanxi Chen et.al.|[2309.04752](http://arxiv.org/abs/2309.04752)|null|
-|**2023-08-18**|**SimDA: Simple Diffusion Adapter for Efficient Video Generation**|Zhen Xing et.al.|[2308.09710](http://arxiv.org/abs/2308.09710)|null|
-|**2023-08-15**|**Boosting Cross-Quality Face Verification using Blind Face Restoration**|Messaoud Bengherabi et.al.|[2308.07967](http://arxiv.org/abs/2308.07967)|null|
-|**2023-08-14**|**RestoreFormer++: Towards Real-World Blind Face Restoration from Undegraded Key-Value Pairs**|Zhouxia Wang et.al.|[2308.07228](http://arxiv.org/abs/2308.07228)|**[link](https://github.com/wzhouxiff/restoreformerplusplus)**|
-|**2023-08-13**|**FastLLVE: Real-Time Low-Light Video Enhancement with Intensity-Aware Lookup Table**|Wenhao Li et.al.|[2308.06749](http://arxiv.org/abs/2308.06749)|**[link](https://github.com/wenhao-li-777/fastllve)**|
-|**2023-08-10**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463](http://arxiv.org/abs/2308.03463)|null|
+|**2024-11-26**|**LTOS: Layout-controllable Text-Object Synthesis via Adaptive Cross-attention Fusions**|Xiaoran Zhao et.al.|[2404.13579](http://arxiv.org/abs/2404.13579)|null|
+|**2024-10-22**|**MPDS: A Movie Posters Dataset for Image Generation with Diffusion Model**|Meng Xu et.al.|[2410.16840](http://arxiv.org/abs/2410.16840)|null|
+|**2024-10-18**|**Personalized Image Generation with Large Multimodal Models**|Yiyan Xu et.al.|[2410.14170](http://arxiv.org/abs/2410.14170)|null|
+|**2024-09-03**|**Planning and Rendering: Towards Product Poster Generation with Diffusion Models**|Zhaochen Li et.al.|[2312.08822](http://arxiv.org/abs/2312.08822)|null|
+|**2024-08-30**|**GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models**|Jian Ma et.al.|[2407.02252](http://arxiv.org/abs/2407.02252)|**[link](https://github.com/oppo-mente-lab/glyphdraw2)**|
+|**2024-07-29**|**SciPostLayout: A Dataset for Layout Analysis and Layout Generation of Scientific Posters**|Shohei Tanaka et.al.|[2407.19787](http://arxiv.org/abs/2407.19787)|null|
+|**2024-02-10**|**Evaluation Metrics for Automated Typographic Poster Generation**|Sérgio M. Rebelo et.al.|[2402.06945](http://arxiv.org/abs/2402.06945)|**[link](https://github.com/sergiomrebelo/evo-poster)**|
+|**2023-11-03**|**OpenLEAF: Open-Domain Interleaved Image-Text Generation and Evaluation**|Jie An et.al.|[2310.07749](http://arxiv.org/abs/2310.07749)|null|
+|**2023-08-23**|**AutoPoster: A Highly Automatic and Content-aware Design System for Advertising Poster Generation**|Jinpeng Lin et.al.|[2308.01095](http://arxiv.org/abs/2308.01095)|null|
+|**2023-05-26**|**Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D**|Bo Qiang et.al.|[2305.13266](http://arxiv.org/abs/2305.13266)|**[link](https://github.com/qiangbo1222/hierdiff)**|
+|**2023-03-25**|**Unsupervised Domain Adaption with Pixel-level Discriminator for Image-aware Layout Generation**|Chenchen Xu et.al.|[2303.14377](http://arxiv.org/abs/2303.14377)|null|
+|**2023-01-06**|**Text2Poster: Laying out Stylized Texts on Retrieved Images**|Chuhao Jin et.al.|[2301.02363](http://arxiv.org/abs/2301.02363)|**[link](https://github.com/chuhaojin/text2poster-icassp-22)**|
+|**2021-12-29**|**Overcoming Mode Collapse with Adaptive Multi Adversarial Training**|Karttikeya Mangalam et.al.|[2112.14406](http://arxiv.org/abs/2112.14406)|**[link](https://github.com/gargrohin/amat)**|
+|**2021-12-16**|**Neural Content Extraction for Poster Generation of Scientific Papers**|Sheng Xu et.al.|[2112.08550](http://arxiv.org/abs/2112.08550)|null|
+|**2021-04-22**|**Behavior-Driven Synthesis of Human Dynamics**|Andreas Blattmann et.al.|[2103.04677](http://arxiv.org/abs/2103.04677)|null|
+|**2017-02-21**|**Learning to Generate Posters of Scientific Papers by Probabilistic Graphical Models**|Yu-ting Qiang et.al.|[1702.06228](http://arxiv.org/abs/1702.06228)|null|
+|**2016-04-05**|**Learning to Generate Posters of Scientific Papers**|Yuting Qiang et.al.|[1604.01219](http://arxiv.org/abs/1604.01219)|null|
+
+<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
+
+## Slides Generation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-11-20**|**SlideSpawn: An Automatic Slides Generation System for Research Publications**|Keshav Kumar et.al.|[2411.17719](http://arxiv.org/abs/2411.17719)|null|
+|**2024-11-15**|**Increasing the Accessibility of Causal Domain Knowledge via Causal Information Extraction Methods: A Case Study in the Semiconductor Manufacturing Industry**|Houssam Razouk et.al.|[2411.10172](http://arxiv.org/abs/2411.10172)|null|
+|**2024-11-08**|**pTSE-T: Presentation Target Speaker Extraction using Unaligned Text Cues**|Ziyang Jiang et.al.|[2411.03109](http://arxiv.org/abs/2411.03109)|null|
+|**2024-10-18**|**Tell me what I need to know: Exploring LLM-based (Personalized) Abstractive Multi-Source Meeting Summarization**|Frederic Kirstein et.al.|[2410.14545](http://arxiv.org/abs/2410.14545)|**[link](https://github.com/FKIRSTE/emnlp2024-personalized-meeting-sum)**|
+|**2024-10-03**|**Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks**|Mengzhao Jia et.al.|[2410.01744](http://arxiv.org/abs/2410.01744)|**[link](https://github.com/jill0001/leopard)**|
+|**2024-07-31**|**Improving Faithfulness of Large Language Models in Summarization via Sliding Generation and Self-Consistency**|Taiji Li et.al.|[2407.21443](http://arxiv.org/abs/2407.21443)|null|
+|**2024-06-13**|**MaLa-ASR: Multimedia-Assisted LLM-Based ASR**|Guanrou Yang et.al.|[2406.05839](http://arxiv.org/abs/2406.05839)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
+|**2024-06-01**|**Enhancing Presentation Slide Generation by LLMs with a Multi-Staged End-to-End Approach**|Sambaran Bandyopadhyay et.al.|[2406.06556](http://arxiv.org/abs/2406.06556)|null|
+|**2024-05-23**|**A self-supervised framework for learning whole slide representations**|Xinhai Hou et.al.|[2402.06188](http://arxiv.org/abs/2402.06188)|null|
+|**2024-03-14**|**OutlineSpark: Igniting AI-powered Presentation Slides Creation from Computational Notebooks through Outlines**|Fengjie Wang et.al.|[2403.09121](http://arxiv.org/abs/2403.09121)|null|
+|**2023-08-14**|**The Scale Invariant Vacuum Paradigm: Main Results plus the Current BBNS Progress**|Vesselin G. Gueorguiev et.al.|[2308.07483](http://arxiv.org/abs/2308.07483)|null|
+|**2023-01-26**|**Telling Stories from Computational Notebooks: AI-Assisted Presentation Slides Creation for Presenting Data Science Work**|Chengbo Zheng et.al.|[2203.11085](http://arxiv.org/abs/2203.11085)|null|
+|**2022-12-26**|**Interactive Layout Drawing Interface with Shadow Guidance**|Jiahao Weng et.al.|[2212.12975](http://arxiv.org/abs/2212.12975)|null|
+|**2022-12-02**|**Knowledge-Decks: Automatically Generating Presentation Slide Decks of Visual Analytics Knowledge Discovery Applications**|Leonardo Christino et.al.|[2212.01469](http://arxiv.org/abs/2212.01469)|null|
+|**2022-09-27**|**SGTM 2.0: Autonomously Untangling Long Cables using Interactive Perception**|Kaushik Shivakumar et.al.|[2209.13706](http://arxiv.org/abs/2209.13706)|null|
+|**2022-07-31**|**Autonomously Untangling Long Cables**|Vainavi Viswanath et.al.|[2207.07813](http://arxiv.org/abs/2207.07813)|null|
+|**2022-03-19**|**DOC2PPT: Automatic Presentation Slides Generation from Scientific Documents**|Tsu-Jui Fu et.al.|[2101.11796](http://arxiv.org/abs/2101.11796)|null|
+|**2022-01-21**|**Classroom Slide Narration System**|Jobin K. V. et.al.|[2201.08574](http://arxiv.org/abs/2201.08574)|null|
+|**2022-01-21**|**SciBERTSUM: Extractive Summarization for Scientific Documents**|Athar Sefid et.al.|[2201.08495](http://arxiv.org/abs/2201.08495)|**[link](https://github.com/atharsefid/scibertsum)**|
+|**2021-10-13**|**Tutorial on Deep Learning for Human Activity Recognition**|Marius Bock et.al.|[2110.06663](http://arxiv.org/abs/2110.06663)|**[link](https://github.com/mariusbock/dl-for-har/tree/main/tutorial_notebooks)**|
+|**2021-09-02**|**SLIDE: Single Image 3D Photography with Soft Layering and Depth-aware Inpainting**|Varun Jampani et.al.|[2109.01068](http://arxiv.org/abs/2109.01068)|null|
+|**2021-08-10**|**Scalar actions in Lean's mathlib**|Eric Wieser et.al.|[2108.10700](http://arxiv.org/abs/2108.10700)|**[link](https://github.com/leanprover-community/mathlib)**|
+|**2021-06-06**|**Extractive Research Slide Generation Using Windowed Labeling Ranking**|Athar Sefid et.al.|[2106.03246](http://arxiv.org/abs/2106.03246)|**[link](https://github.com/atharsefid/Extractive_Research_Slide_Generation_Using_Windowed_Labeling_Ranking)**|
+|**2021-05-08**|**D2S: Document-to-Slide Generation Via Query-Based Text Summarization**|Edward Sun et.al.|[2105.03664](http://arxiv.org/abs/2105.03664)|**[link](https://github.com/IBM/document2slides)**|
+|**2021-02-09**|**Cisco at AAAI-CAD21 shared task: Predicting Emphasis in Presentation Slides using Contextualized Embeddings**|Sreyan Ghosh et.al.|[2101.11422](http://arxiv.org/abs/2101.11422)|**[link](https://github.com/realsonalkumar/CAD21-AAAI21)**|
+|**2021-01-02**|**Learning to Emphasize: Dataset and Shared Task Models for Selecting Emphasis in Presentation Slides**|Amirreza Shirani et.al.|[2101.03237](http://arxiv.org/abs/2101.03237)|null|
+|**2020-08-25**|**Extractive Summarizer for Scholarly Articles**|Athar Sefid et.al.|[2008.11290](http://arxiv.org/abs/2008.11290)|**[link](https://github.com/atharsefid/Automatic-Slide-Generation)**|
+|**2020-03-24**|**Frequency-Sliding Generalized Cross-Correlation: A Sub-band Time Delay Estimation Approach**|Maximo Cobos et.al.|[1910.08838](http://arxiv.org/abs/1910.08838)|**[link](https://github.com/spatUV/fs-gcc)**|
+|**2020-02-03**|**Time Difference of Arrival Estimation from Frequency-Sliding Generalized Cross-Correlations Using Convolutional Neural Networks**|Luca Comanducci et.al.|[2002.00641](http://arxiv.org/abs/2002.00641)|null|
+|**2019-08-20**|**The Effect of Visual Design in Image Classification**|Naftali Cohen et.al.|[1907.09567](http://arxiv.org/abs/1907.09567)|null|
+|**2019-03-02**|**Automatically Generating Engaging Presentation Slide Decks**|Thomas Winters et.al.|[1903.09308](http://arxiv.org/abs/1903.09308)|null|
+|**2017-08-04**|**VisAR: Bringing Interactivity to Static Data Visualizations through Augmented Reality**|Taeheon Kim et.al.|[1708.01377](http://arxiv.org/abs/1708.01377)|null|
+|**2015-12-07**|**Digital Genesis: Computers, Evolution and Artificial Life**|Tim Taylor et.al.|[1512.02100](http://arxiv.org/abs/1512.02100)|null|
+|**2014-09-25**|**On the group-theoretic structure of lifted filter banks**|Christopher M. Brislawn et.al.|[1310.0530](http://arxiv.org/abs/1310.0530)|null|
+|**2013-07-25**|**On Poincaré-Bendixson Theorem and Non-Trivial Minimal Sets in Planar Nonsmooth Vector Fields**|Tiago de Carvalho et.al.|[1307.6825](http://arxiv.org/abs/1307.6825)|null|
+|**2010-03-18**|**Sliding window approach based Text Binarisation from Complex Textual images**|Chitrakala Gopalan et.al.|[1003.3654](http://arxiv.org/abs/1003.3654)|null|
+
+<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
+
+## Layout Generation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-12-03**|**LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models**|Fan-Yun Sun et.al.|[2412.02193](http://arxiv.org/abs/2412.02193)|null|
+|**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
+|**2024-11-30**|**DogLayout: Denoising Diffusion GAN for Discrete and Continuous Layout Generation**|Zhaoxing Gan et.al.|[2412.00381](http://arxiv.org/abs/2412.00381)|**[link](https://github.com/deadsmither5/DogLayout)**|
+|**2024-11-26**|**PosterLLaVa: Constructing a Unified Multi-modal Layout Generator with LLM**|Tao Yang et.al.|[2406.02884](http://arxiv.org/abs/2406.02884)|**[link](https://github.com/posterllava/posterllava)**|
+|**2024-11-25**|**SynDCIM: A Performance-Aware Digital Computing-in-Memory Compiler with Multi-Spec-Oriented Subcircuit Synthesis**|Kunming Shao et.al.|[2411.16806](http://arxiv.org/abs/2411.16806)|null|
+|**2024-11-22**|**LayoutDiT: Exploring Content-Graphic Balance in Layout Generation with Diffusion Transformer**|Yu Li et.al.|[2407.15233](http://arxiv.org/abs/2407.15233)|null|
+|**2024-11-18**|**GLDesigner: Leveraging Multi-Modal LLMs as Designer for Enhanced Aesthetic Text Glyph Layouts**|Junwen He et.al.|[2411.11435](http://arxiv.org/abs/2411.11435)|null|
+|**2024-11-14**|**Scalable Readability Evaluation for Graph Layouts: 2D Geometric Distributed Algorithms**|Sanggeon Yun et.al.|[2411.09809](http://arxiv.org/abs/2411.09809)|null|
+|**2024-10-28**|**Refining Text-to-Image Generation: Towards Accurate Training-Free Glyph-Enhanced Image Generation**|Sanyam Lakhanpal et.al.|[2403.16422](http://arxiv.org/abs/2403.16422)|null|
+|**2024-10-22**|**UrbanWorld: An Urban World Model for 3D City Generation**|Yu Shang et.al.|[2407.11965](http://arxiv.org/abs/2407.11965)|**[link](https://github.com/urban-world/urbanworld)**|
+|**2024-10-18**|**HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation**|Bo Cheng et.al.|[2410.14324](http://arxiv.org/abs/2410.14324)|**[link](https://github.com/360cvgroup/hico_t2i)**|
+|**2024-10-09**|**TextLap: Customizing Language Models for Text-to-Layout Planning**|Jian Chen et.al.|[2410.12844](http://arxiv.org/abs/2410.12844)|**[link](https://github.com/puar-playground/TextLap)**|
+|**2024-10-04**|**Decoupling Layout from Glyph in Online Chinese Handwriting Generation**|Min-Si Ren et.al.|[2410.02309](http://arxiv.org/abs/2410.02309)|null|
+|**2024-09-30**|**LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer**|Ning Yu et.al.|[2212.09877](http://arxiv.org/abs/2212.09877)|**[link](https://github.com/salesforce/layoutdetr)**|
+|**2024-09-25**|**Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model**|Shoma Iwai et.al.|[2409.16689](http://arxiv.org/abs/2409.16689)|null|
+|**2024-09-15**|**Layout Agnostic Scene Text Image Synthesis with Diffusion Models**|Qilong Zhangli et.al.|[2406.01062](http://arxiv.org/abs/2406.01062)|null|
+|**2024-09-06**|**UniPortrait: A Unified Framework for Identity-Preserving Single- and Multi-Human Image Personalization**|Junjie He et.al.|[2408.05939](http://arxiv.org/abs/2408.05939)|null|
+|**2024-09-04**|**Spatial Diffusion for Cell Layout Generation**|Chen Li et.al.|[2409.03106](http://arxiv.org/abs/2409.03106)|**[link](https://github.com/superlc1995/diffusion-cell)**|
+|**2024-09-03**|**Planning and Rendering: Towards Product Poster Generation with Diffusion Models**|Zhaochen Li et.al.|[2312.08822](http://arxiv.org/abs/2312.08822)|null|
+|**2024-08-26**|**Planner3D: LLM-enhanced graph prior meets 3D indoor scene explicit regularization**|Yao Wei et.al.|[2403.12848](http://arxiv.org/abs/2403.12848)|null|
+|**2024-07-31**|**Chat2Layout: Interactive 3D Furniture Layout with a Multimodal LLM**|Can Wang et.al.|[2407.21333](http://arxiv.org/abs/2407.21333)|null|
+|**2024-07-29**|**SciPostLayout: A Dataset for Layout Analysis and Layout Generation of Scientific Posters**|Shohei Tanaka et.al.|[2407.19787](http://arxiv.org/abs/2407.19787)|null|
+|**2024-07-28**|**PosterLlama: Bridging Design Ability of Langauge Model to Contents-Aware Layout Generation**|Jaejung Seol et.al.|[2404.00995](http://arxiv.org/abs/2404.00995)|**[link](https://github.com/jaepoong/PosterLlama)**|
+|**2024-07-26**|**Interactive and Automatic Generation of Primitive Custom Circuit Layout Using LLMs**|Geunyoung You et.al.|[2408.07279](http://arxiv.org/abs/2408.07279)|null|
+|**2024-07-23**|**Cross-Domain Document Layout Analysis Using Document Style Guide**|Xingjiao Wu et.al.|[2201.09407](http://arxiv.org/abs/2201.09407)|null|
+|**2024-07-20**|**OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models**|Zhe Kong et.al.|[2403.10983](http://arxiv.org/abs/2403.10983)|**[link](https://github.com/kongzhecn/omg)**|
+|**2024-07-17**|**LTSim: Layout Transportation-based Similarity Measure for Evaluating Layout Generation**|Mayu Otani et.al.|[2407.12356](http://arxiv.org/abs/2407.12356)|null|
+|**2024-07-16**|**COHO: Context-Sensitive City-Scale Hierarchical Urban Layout Generation**|Liu He et.al.|[2407.11294](http://arxiv.org/abs/2407.11294)|**[link](https://github.com/arking1995/coho)**|
+|**2024-07-13**|**Layout-and-Retouch: A Dual-stage Framework for Improving Diversity in Personalized Image Generation**|Kangyeol Kim et.al.|[2407.09779](http://arxiv.org/abs/2407.09779)|null|
+|**2024-07-13**|**LayoutFlow: Flow Matching for Layout Generation**|Julian Jorge Andrade Guerreiro et.al.|[2403.18187](http://arxiv.org/abs/2403.18187)|null|
+|**2024-07-12**|**A Novel Framework for Automated Warehouse Layout Generation**|Atefeh Shahroudnejad et.al.|[2407.08633](http://arxiv.org/abs/2407.08633)|null|
+|**2024-07-10**|**RoBus: A Multimodal Dataset for Controllable Road Networks and Building Layouts Generation**|Tao Li et.al.|[2407.07835](http://arxiv.org/abs/2407.07835)|**[link](https://github.com/tourlics/robus_dataset)**|
+|**2024-07-02**|**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**|Chuan Fang et.al.|[2310.03602](http://arxiv.org/abs/2310.03602)|null|
+|**2024-06-12**|**DocSynthv2: A Practical Autoregressive Modeling for Document Generation**|Sanket Biswas et.al.|[2406.08354](http://arxiv.org/abs/2406.08354)|null|
+|**2024-06-11**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388](http://arxiv.org/abs/2406.01388)|**[link](https://github.com/donahowe/AutoStudio)**|
+|**2024-06-07**|**CityCraft: A Real Crafter for 3D City Generation**|Jie Deng et.al.|[2406.04983](http://arxiv.org/abs/2406.04983)|null|
+|**2024-06-06**|**LLplace: The 3D Indoor Scene Layout Generation and Editing via Large Language Model**|Yixuan Yang et.al.|[2406.03866](http://arxiv.org/abs/2406.03866)|null|
+|**2024-05-29**|**Automated Optimal Layout Generator for Animal Shelters: A framework based on Genetic Algorithm, TOPSIS and Graph Theory**|Arghavan Jalayer et.al.|[2405.14172](http://arxiv.org/abs/2405.14172)|null|
+|**2024-05-27**|**Revision Matters: Generative Design Guided by Revision Edits**|Tao Li et.al.|[2406.18559](http://arxiv.org/abs/2406.18559)|null|
+|**2024-05-21**|**Physics-based Scene Layout Generation from Human Motion**|Jianan Li et.al.|[2405.12460](http://arxiv.org/abs/2405.12460)|null|
+|**2024-05-18**|**CoLay: Controllable Layout Generation through Multi-conditional Latent Diffusion**|Chin-Yi Cheng et.al.|[2405.13045](http://arxiv.org/abs/2405.13045)|null|
+|**2024-05-16**|**Leveraging Human Revisions for Improving Text-to-Layout Models**|Amber Xie et.al.|[2405.13026](http://arxiv.org/abs/2405.13026)|null|
+|**2024-05-15**|**Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints**|Jian Chen et.al.|[2402.04754](http://arxiv.org/abs/2402.04754)|**[link](https://github.com/puar-playground/lace)**|
+|**2024-05-13**|**Layout Generation Agents with Large Language Models**|Yuichi Sasazawa et.al.|[2405.08037](http://arxiv.org/abs/2405.08037)|**[link](https://github.com/ckdjrkffz/layout-agent)**|
+|**2024-05-06**|**FurniScene: A Large-scale 3D Room Dataset with Intricate Furnishing Scenes**|Genghao Zhang et.al.|[2401.03470](http://arxiv.org/abs/2401.03470)|null|
+|**2024-04-22**|**Graphic Design with Large Multimodal Model**|Yutao Cheng et.al.|[2404.14368](http://arxiv.org/abs/2404.14368)|**[link](https://github.com/graphic-design-ai/graphist)**|
+|**2024-04-15**|**Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation**|Daichi Horita et.al.|[2311.13602](http://arxiv.org/abs/2311.13602)|**[link](https://github.com/cyberagentailab/ralf)**|
+|**2024-03-30**|**SVGCraft: Beyond Single Object Text-to-SVG Synthesis with Comprehensive Canvas Layout**|Ayan Banerjee et.al.|[2404.00412](http://arxiv.org/abs/2404.00412)|null|
+|**2024-03-30**|**Constrained Layout Generation with Factor Graphs**|Mohammed Haroon Dupty et.al.|[2404.00385](http://arxiv.org/abs/2404.00385)|null|
+|**2024-03-15**|**ChatPattern: Layout Pattern Customization via Natural Language**|Zixiao Wang et.al.|[2403.15434](http://arxiv.org/abs/2403.15434)|null|
+|**2024-02-07**|**Text2Street: Controllable Text-to-image Generation for Street Views**|Jinming Su et.al.|[2402.04504](http://arxiv.org/abs/2402.04504)|null|
+|**2024-02-05**|**Open-Universe Indoor Scene Generation using LLM Program Synthesis and Uncurated Object Databases**|Rio Aguina-Kang et.al.|[2403.09675](http://arxiv.org/abs/2403.09675)|null|
+|**2024-01-29**|**Spot the Error: Non-autoregressive Graphic Layout Generation with Wireframe Locator**|Jieru Lin et.al.|[2401.16375](http://arxiv.org/abs/2401.16375)|**[link](https://github.com/ffffatgoose/spoterror)**|
+|**2024-01-15**|**Graph Transformer GANs with Graph Masked Modeling for Architectural Layout Generation**|Hao Tang et.al.|[2401.07721](http://arxiv.org/abs/2401.07721)|null|
+|**2024-01-11**|**Relation-Aware Diffusion Model for Controllable Poster Layout Generation**|Fengheng Li et.al.|[2306.09086](http://arxiv.org/abs/2306.09086)|**[link](https://github.com/liuan0803/radm)**|
+|**2023-12-03**|**CityGen: Infinite and Controllable 3D City Layout Generation**|Jie Deng et.al.|[2312.01508](http://arxiv.org/abs/2312.01508)|null|
+|**2023-11-30**|**Detailed Human-Centric Text Description-Driven Large Scene Synthesis**|Gwanghyun Kim et.al.|[2311.18654](http://arxiv.org/abs/2311.18654)|null|
+|**2023-11-28**|**Reason out Your Layout: Evoking the Layout Master from Large Language Models for Text-to-Image Synthesis**|Xiaohui Chen et.al.|[2311.17126](http://arxiv.org/abs/2311.17126)|null|
+|**2023-11-11**|**LayoutPrompter: Awaken the Design Ability of Large Language Models**|Jiawei Lin et.al.|[2311.06495](http://arxiv.org/abs/2311.06495)|**[link](https://github.com/microsoft/layoutgeneration)**|
+|**2023-10-27**|**Visual Programming for Text-to-Image Generation and Evaluation**|Jaemin Cho et.al.|[2305.15328](http://arxiv.org/abs/2305.15328)|null|
+|**2023-10-25**|**Dolfin: Diffusion Layout Transformers without Autoencoder**|Yilin Wang et.al.|[2310.16305](http://arxiv.org/abs/2310.16305)|null|
+|**2023-10-24**|**UI Layout Generation with LLMs Guided by UI Grammar**|Yuwen Lu et.al.|[2310.15455](http://arxiv.org/abs/2310.15455)|null|
+|**2023-10-21**|**Post-Layout Simulation Driven Analog Circuit Sizing**|Xiaohan Gao et.al.|[2310.14049](http://arxiv.org/abs/2310.14049)|null|
+|**2023-09-19**|**LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models**|Zecheng Tang et.al.|[2309.09506](http://arxiv.org/abs/2309.09506)|**[link](https://github.com/projectnuwa/layoutnuwa)**|
+|**2023-08-27**|**ReCo: A Dataset for Residential Community Layout Planning**|Xi Chen et.al.|[2206.04678](http://arxiv.org/abs/2206.04678)|**[link](https://github.com/fdudsde/reco-dataset)**|
+|**2023-08-24**|**A Parse-Then-Place Approach for Generating Graphic Layouts from Textual Descriptions**|Jiawei Lin et.al.|[2308.12700](http://arxiv.org/abs/2308.12700)|null|
+|**2023-08-23**|**AutoPoster: A Highly Automatic and Content-aware Design System for Advertising Poster Generation**|Jinpeng Lin et.al.|[2308.01095](http://arxiv.org/abs/2308.01095)|null|
+|**2023-08-15**|**LayoutDiffusion: Improving Graphic Layout Generation by Discrete Diffusion Probabilistic Models**|Junyi Zhang et.al.|[2303.11589](http://arxiv.org/abs/2303.11589)|**[link](https://github.com/microsoft/layoutgeneration)**|
+|**2023-08-03**|**HS-Diffusion: Semantic-Mixing Diffusion for Head Swapping**|Qinghe Wang et.al.|[2212.06458](http://arxiv.org/abs/2212.06458)|**[link](https://github.com/qinghew/hs-diffusion)**|
+|**2023-07-19**|**Generating Redstone Style Cities in Minecraft**|Shuo Huang et.al.|[2307.09777](http://arxiv.org/abs/2307.09777)|null|
+|**2023-07-19**|**GlobalMapper: Arbitrary-Shaped Urban Layout Generation**|Liu He et.al.|[2307.09693](http://arxiv.org/abs/2307.09693)|null|
+|**2023-07-18**|**Conditional 360-degree Image Synthesis for Immersive Indoor Scene Decoration**|Ka Chun Shum et.al.|[2307.09621](http://arxiv.org/abs/2307.09621)|null|
+|**2023-06-21**|**PLay: Parametrically Conditioned Layout Generation using Latent Diffusion**|Chin-Yi Cheng et.al.|[2301.11529](http://arxiv.org/abs/2301.11529)|null|
+|**2023-05-31**|**VMap: An Interactive Rectangular Space-filling Visualization for Map-like Vertex-centric Graph Exploration**|Jiayi Xu et.al.|[2306.00120](http://arxiv.org/abs/2306.00120)|null|
+|**2023-05-30**|**TaleCrafter: Interactive Story Visualization with Multiple Characters**|Yuan Gong et.al.|[2305.18247](http://arxiv.org/abs/2305.18247)|**[link](https://github.com/videocrafter/talecrafter)**|
+|**2023-05-22**|**Design a Delicious Lunchbox in Style**|Yutong Zhou et.al.|[2305.14522](http://arxiv.org/abs/2305.14522)|null|
+|**2023-05-04**|**LayoutDM: Transformer-based Diffusion Model for Layout Generation**|Shang Chai et.al.|[2305.02567](http://arxiv.org/abs/2305.02567)|null|
+|**2023-04-18**|**GUILGET: GUI Layout GEneration with Transformer**|Andrey Sobolevsky et.al.|[2304.09012](http://arxiv.org/abs/2304.09012)|**[link](https://github.com/dysoxor/guilget)**|
+|**2023-03-25**|**Unsupervised Domain Adaption with Pixel-level Discriminator for Image-aware Layout Generation**|Chenchen Xu et.al.|[2303.14377](http://arxiv.org/abs/2303.14377)|null|
+|**2023-03-24**|**LayoutFormer++: Conditional Graphic Layout Generation via Constraint Serialization and Decoding Space Restriction**|Zhaoyun Jiang et.al.|[2208.08037](http://arxiv.org/abs/2208.08037)|null|
+|**2023-03-19**|**Diffusion-based Document Layout Generation**|Liu He et.al.|[2303.10787](http://arxiv.org/abs/2303.10787)|null|
+|**2023-03-14**|**LayoutDM: Discrete Diffusion Model for Controllable Layout Generation**|Naoto Inoue et.al.|[2303.08137](http://arxiv.org/abs/2303.08137)|**[link](https://github.com/CyberAgentAILab/layout-dm)**|
+|**2023-03-09**|**Unifying Layout Generation with a Decoupled Diffusion Model**|Mude Hui et.al.|[2303.05049](http://arxiv.org/abs/2303.05049)|null|
+|**2023-03-07**|**DLT: Conditioned layout generation with Joint Discrete-Continuous Diffusion Layout Transformer**|Elad Levi et.al.|[2303.03755](http://arxiv.org/abs/2303.03755)|**[link](https://github.com/wix-incubator/DLT)**|
+|**2023-01-16**|**Diverse Multimedia Layout Generation with Multi Choice Learning**|David D. Nguyen et.al.|[2301.06629](http://arxiv.org/abs/2301.06629)|null|
+|**2022-09-02**|**Geometry Aligned Variational Transformer for Image-conditioned Layout Generation**|Yunning Cao et.al.|[2209.00852](http://arxiv.org/abs/2209.00852)|null|
+|**2022-08-12**|**Layout-Bridging Text-to-Image Synthesis**|Jiadong Liang et.al.|[2208.06162](http://arxiv.org/abs/2208.06162)|null|
+|**2022-07-24**|**A Custom IC Layout Generation Engine Based on Dynamic Templates and Grids**|Taeho Shin et.al.|[2207.11728](http://arxiv.org/abs/2207.11728)|null|
+|**2022-07-24**|**BLT: Bidirectional Layout Transformer for Controllable Layout Generation**|Xiang Kong et.al.|[2112.05112](http://arxiv.org/abs/2112.05112)|null|
+|**2022-07-22**|**Structured Graph Variational Autoencoders for Indoor Furniture layout Generation**|Aditya Chattopadhyay et.al.|[2204.04867](http://arxiv.org/abs/2204.04867)|null|
+|**2022-07-13**|**Composition-aware Graphic Layout GAN for Visual-textual Presentation Designs**|Min Zhou et.al.|[2205.00303](http://arxiv.org/abs/2205.00303)|null|
+|**2022-04-06**|**Aesthetic Text Logo Synthesis via Content-aware Layout Inferring**|Yizhi Wang et.al.|[2204.02701](http://arxiv.org/abs/2204.02701)|**[link](https://github.com/yizhiwang96/textlogolayout)**|
+|**2022-03-31**|**Coverage hole detection in WSN with force-directed algorithm and transfer learning**|Yue-Hui Lai et.al.|[2204.01592](http://arxiv.org/abs/2204.01592)|null|
+|**2022-03-28**|**Interactive Image Synthesis with Panoptic Layout Generation**|Bo Wang et.al.|[2203.02104](http://arxiv.org/abs/2203.02104)|**[link](https://github.com/wb-finalking/PLGAN)**|
+|**2022-01-06**|**The Layout Generation Algorithm of Graphic Design Based on Transformer-CVAE**|Mengxi Guo et.al.|[2110.06794](http://arxiv.org/abs/2110.06794)|null|
+|**2021-12-10**|**Towards Full-to-Empty Room Generation with Structure-Aware Feature Encoding and Soft Semantic Region-Adaptive Normalization**|Vasileios Gkitsas et.al.|[2112.05396](http://arxiv.org/abs/2112.05396)|null|
+|**2021-12-02**|**Multicriteria Scalable Graph Drawing via Stochastic Gradient Descent, $(SGD)^2$**|Reyan Ahmed et.al.|[2112.01571](http://arxiv.org/abs/2112.01571)|**[link](https://github.com/tiga1231/graph-drawing)**|
+|**2021-08-02**|**Constrained Graphic Layout Generation via Latent Optimization**|Kotaro Kikuchi et.al.|[2108.00871](http://arxiv.org/abs/2108.00871)|**[link](https://github.com/ktrk115/const_layout)**|
+|**2021-08-02**|**Automatic Polygon Layout for Primal-Dual Visualization of Hypergraphs**|Botong Qu et.al.|[2108.00671](http://arxiv.org/abs/2108.00671)|null|
+|**2021-07-09**|**NVCell: Standard Cell Layout in Advanced Technology Nodes with Reinforcement Learning**|Haoxing Ren et.al.|[2107.07044](http://arxiv.org/abs/2107.07044)|null|
 
 <p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
 
