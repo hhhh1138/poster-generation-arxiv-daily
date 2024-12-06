@@ -310,7 +310,7 @@ def json_to_md(recent_trend_path,
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
         
-        f.write("# Video-Restoration Research Papers (With GPT Analysis)\n")
+        f.write("# Poster Generation Research Papers (With GPT Analysis)\n")
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>talking-face-arxiv-daily"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
