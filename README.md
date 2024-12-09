@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Poster Generation Research Papers (With GPT Analysis)
-### Automatically Updated on 2024.12.08
+### Automatically Updated on 2024.12.09
 Current Search Keywords: `Poster Generaton`, `Slides Generation`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -68,7 +68,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2017-02-21**|**Learning to Generate Posters of Scientific Papers by Probabilistic Graphical Models**|Yu-ting Qiang et.al.|[1702.06228](http://arxiv.org/abs/1702.06228)|null|
 |**2016-04-05**|**Learning to Generate Posters of Scientific Papers**|Yuting Qiang et.al.|[1604.01219](http://arxiv.org/abs/1604.01219)|null|
 
-<p align=right>(<a href=#updated-on-20241208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241209>back to top</a>)</p>
 
 ## Slides Generation
 
@@ -111,13 +111,13 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2013-07-25**|**On Poincaré-Bendixson Theorem and Non-Trivial Minimal Sets in Planar Nonsmooth Vector Fields**|Tiago de Carvalho et.al.|[1307.6825](http://arxiv.org/abs/1307.6825)|null|
 |**2010-03-18**|**Sliding window approach based Text Binarisation from Complex Textual images**|Chitrakala Gopalan et.al.|[1003.3654](http://arxiv.org/abs/1003.3654)|null|
 
-<p align=right>(<a href=#updated-on-20241208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241209>back to top</a>)</p>
 
 ## Layout Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-05**|**VASCAR: Content-Aware Layout Generation via Visual-Aware Self-Correction**|Jiahao Zhang et.al.|[2412.04237](http://arxiv.org/abs/2412.04237)|null|
+|**2024-12-06**|**VASCAR: Content-Aware Layout Generation via Visual-Aware Self-Correction**|Jiahao Zhang et.al.|[2412.04237](http://arxiv.org/abs/2412.04237)|null|
 |**2024-12-05**|**CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation**|Hui Zhang et.al.|[2412.03859](http://arxiv.org/abs/2412.03859)|null|
 |**2024-12-03**|**LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models**|Fan-Yun Sun et.al.|[2412.02193](http://arxiv.org/abs/2412.02193)|null|
 |**2024-12-02**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
@@ -221,7 +221,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2021-08-02**|**Automatic Polygon Layout for Primal-Dual Visualization of Hypergraphs**|Botong Qu et.al.|[2108.00671](http://arxiv.org/abs/2108.00671)|null|
 |**2021-07-09**|**NVCell: Standard Cell Layout in Advanced Technology Nodes with Reinforcement Learning**|Haoxing Ren et.al.|[2107.07044](http://arxiv.org/abs/2107.07044)|null|
 
-<p align=right>(<a href=#updated-on-20241208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241209>back to top</a>)</p>
 
 Notes: 
 
