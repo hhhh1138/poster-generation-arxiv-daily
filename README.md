@@ -117,6 +117,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**SLayR: Scene Layout Generation with Rectified Flow**|Cameron Braunstein et.al.|[2412.05003](http://arxiv.org/abs/2412.05003)|null|
 |**2024-12-06**|**VASCAR: Content-Aware Layout Generation via Visual-Aware Self-Correction**|Jiahao Zhang et.al.|[2412.04237](http://arxiv.org/abs/2412.04237)|null|
 |**2024-12-05**|**CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation**|Hui Zhang et.al.|[2412.03859](http://arxiv.org/abs/2412.03859)|null|
 |**2024-12-03**|**LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models**|Fan-Yun Sun et.al.|[2412.02193](http://arxiv.org/abs/2412.02193)|null|
