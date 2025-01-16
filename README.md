@@ -120,6 +120,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**CityDreamer4D: Compositional Generative Model of Unbounded 4D Cities**|Haozhe Xie et.al.|[2501.08983](http://arxiv.org/abs/2501.08983)|**[link](https://github.com/hzxie/CityDreamer4D)**|
 |**2025-01-09**|**Spatial Information Integration in Small Language Models for Document Layout Generation and Classification**|Pablo Melendez et.al.|[2501.05497](http://arxiv.org/abs/2501.05497)|null|
 |**2025-01-07**|**SceneBooth: Diffusion-based Framework for Subject-preserved Text-to-Image Generation**|Shang Chai et.al.|[2501.03490](http://arxiv.org/abs/2501.03490)|null|
 |**2025-01-05**|**SynDCIM: A Performance-Aware Digital Computing-in-Memory Compiler with Multi-Spec-Oriented Subcircuit Synthesis**|Kunming Shao et.al.|[2411.16806](http://arxiv.org/abs/2411.16806)|null|
