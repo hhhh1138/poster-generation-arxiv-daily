@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Poster Generation Research Papers (With GPT Analysis)
-### Automatically Updated on 2025.01.16
+### Automatically Updated on 2025.01.17
 Current Search Keywords: `Poster Generaton`, `Slides Generation`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -68,13 +68,13 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2017-02-21**|**Learning to Generate Posters of Scientific Papers by Probabilistic Graphical Models**|Yu-ting Qiang et.al.|[1702.06228](http://arxiv.org/abs/1702.06228)|null|
 |**2016-04-05**|**Learning to Generate Posters of Scientific Papers**|Yuting Qiang et.al.|[1604.01219](http://arxiv.org/abs/1604.01219)|null|
 
-<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250117>back to top</a>)</p>
 
 ## Slides Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-11**|**PASS: Presentation Automation for Slide Generation and Speech**|Tushar Aggarwal et.al.|[2501.06497](http://arxiv.org/abs/2501.06497)|**[link](https://github.com/aggarwaltushar/pass)**|
+|**2025-01-15**|**PASS: Presentation Automation for Slide Generation and Speech**|Tushar Aggarwal et.al.|[2501.06497](http://arxiv.org/abs/2501.06497)|**[link](https://github.com/aggarwaltushar/pass)**|
 |**2025-01-01**|**AutoPresent: Designing Structured Visuals from Scratch**|Jiaxin Ge et.al.|[2501.00912](http://arxiv.org/abs/2501.00912)|**[link](https://github.com/para-lost/AutoPresent)**|
 |**2024-12-14**|**VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation**|Manan Suri et.al.|[2412.10704](http://arxiv.org/abs/2412.10704)|null|
 |**2024-11-20**|**SlideSpawn: An Automatic Slides Generation System for Research Publications**|Keshav Kumar et.al.|[2411.17719](http://arxiv.org/abs/2411.17719)|null|
@@ -114,12 +114,13 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2013-07-25**|**On Poincaré-Bendixson Theorem and Non-Trivial Minimal Sets in Planar Nonsmooth Vector Fields**|Tiago de Carvalho et.al.|[1307.6825](http://arxiv.org/abs/1307.6825)|null|
 |**2010-03-18**|**Sliding window approach based Text Binarisation from Complex Textual images**|Chitrakala Gopalan et.al.|[1003.3654](http://arxiv.org/abs/1003.3654)|null|
 
-<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250117>back to top</a>)</p>
 
 ## Layout Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279](http://arxiv.org/abs/2501.09279)|null|
 |**2025-01-15**|**CityDreamer4D: Compositional Generative Model of Unbounded 4D Cities**|Haozhe Xie et.al.|[2501.08983](http://arxiv.org/abs/2501.08983)|**[link](https://github.com/hzxie/CityDreamer4D)**|
 |**2025-01-09**|**Spatial Information Integration in Small Language Models for Document Layout Generation and Classification**|Pablo Melendez et.al.|[2501.05497](http://arxiv.org/abs/2501.05497)|null|
 |**2025-01-07**|**SceneBooth: Diffusion-based Framework for Subject-preserved Text-to-Image Generation**|Shang Chai et.al.|[2501.03490](http://arxiv.org/abs/2501.03490)|null|
@@ -231,7 +232,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2021-08-02**|**Automatic Polygon Layout for Primal-Dual Visualization of Hypergraphs**|Botong Qu et.al.|[2108.00671](http://arxiv.org/abs/2108.00671)|null|
 |**2021-07-09**|**NVCell: Standard Cell Layout in Advanced Technology Nodes with Reinforcement Learning**|Haoxing Ren et.al.|[2107.07044](http://arxiv.org/abs/2107.07044)|null|
 
-<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250117>back to top</a>)</p>
 
 Notes: 
 
