@@ -50,10 +50,10 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-02**|**Personalized Image Generation with Large Multimodal Models**|Yiyan Xu et.al.|[2410.14170](http://arxiv.org/abs/2410.14170)|**[link](https://github.com/yiyanxu/pigeon)**|
 |**2025-01-26**|**GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models**|Jian Ma et.al.|[2407.02252](http://arxiv.org/abs/2407.02252)|**[link](https://github.com/oppo-mente-lab/glyphdraw2)**|
 |**2024-11-26**|**LTOS: Layout-controllable Text-Object Synthesis via Adaptive Cross-attention Fusions**|Xiaoran Zhao et.al.|[2404.13579](http://arxiv.org/abs/2404.13579)|null|
 |**2024-10-22**|**MPDS: A Movie Posters Dataset for Image Generation with Diffusion Model**|Meng Xu et.al.|[2410.16840](http://arxiv.org/abs/2410.16840)|null|
-|**2024-10-18**|**Personalized Image Generation with Large Multimodal Models**|Yiyan Xu et.al.|[2410.14170](http://arxiv.org/abs/2410.14170)|null|
 |**2024-09-03**|**Planning and Rendering: Towards Product Poster Generation with Diffusion Models**|Zhaochen Li et.al.|[2312.08822](http://arxiv.org/abs/2312.08822)|null|
 |**2024-07-29**|**SciPostLayout: A Dataset for Layout Analysis and Layout Generation of Scientific Posters**|Shohei Tanaka et.al.|[2407.19787](http://arxiv.org/abs/2407.19787)|null|
 |**2024-02-10**|**Evaluation Metrics for Automated Typographic Poster Generation**|Sérgio M. Rebelo et.al.|[2402.06945](http://arxiv.org/abs/2402.06945)|**[link](https://github.com/sergiomrebelo/evo-poster)**|
