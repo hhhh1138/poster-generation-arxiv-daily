@@ -179,7 +179,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-05-06**|**FurniScene: A Large-scale 3D Room Dataset with Intricate Furnishing Scenes**|Genghao Zhang et.al.|[2401.03470](http://arxiv.org/abs/2401.03470)|null|
 |**2024-04-22**|**Graphic Design with Large Multimodal Model**|Yutao Cheng et.al.|[2404.14368](http://arxiv.org/abs/2404.14368)|**[link](https://github.com/graphic-design-ai/graphist)**|
 |**2024-04-15**|**Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation**|Daichi Horita et.al.|[2311.13602](http://arxiv.org/abs/2311.13602)|**[link](https://github.com/cyberagentailab/ralf)**|
-|**2024-03-30**|**SVGCraft: Beyond Single Object Text-to-SVG Synthesis with Comprehensive Canvas Layout**|Ayan Banerjee et.al.|[2404.00412](http://arxiv.org/abs/2404.00412)|null|
+|**2024-03-30**|**SVGCraft: Beyond Single Object Text-to-SVG Synthesis with Comprehensive Canvas Layout**|Ayan Banerjee et.al.|[2404.00412](http://arxiv.org/abs/2404.00412)|**[link](https://github.com/ayanban011/svgcraft)**|
 |**2024-03-30**|**Constrained Layout Generation with Factor Graphs**|Mohammed Haroon Dupty et.al.|[2404.00385](http://arxiv.org/abs/2404.00385)|null|
 |**2024-03-15**|**ChatPattern: Layout Pattern Customization via Natural Language**|Zixiao Wang et.al.|[2403.15434](http://arxiv.org/abs/2403.15434)|null|
 |**2024-02-07**|**Text2Street: Controllable Text-to-image Generation for Street Views**|Jinming Su et.al.|[2402.04504](http://arxiv.org/abs/2402.04504)|null|
