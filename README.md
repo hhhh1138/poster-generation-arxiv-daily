@@ -120,6 +120,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**RouteFlow: Trajectory-Aware Animated Transitions**|Duan Li et.al.|[2502.08076](http://arxiv.org/abs/2502.08076)|null|
 |**2025-02-12**|**PAID: A Framework of Product-Centric Advertising Image Design**|Hongyu Chen et.al.|[2501.14316](http://arxiv.org/abs/2501.14316)|null|
 |**2025-02-06**|**Illuminating Spaces: Deep Reinforcement Learning and Laser-Wall Partitioning for Architectural Layout Generation**|Reza Kakooee et.al.|[2502.04407](http://arxiv.org/abs/2502.04407)|null|
 |**2025-01-16**|**Text Semantics to Flexible Design: A Residential Layout Generation Method Based on Stable Diffusion Model**|Zijin Qiu et.al.|[2501.09279](http://arxiv.org/abs/2501.09279)|null|
