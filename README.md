@@ -74,6 +74,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128](http://arxiv.org/abs/2502.12128)|null|
 |**2025-02-11**|**VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation**|Manan Suri et.al.|[2412.10704](http://arxiv.org/abs/2412.10704)|null|
 |**2025-01-15**|**PASS: Presentation Automation for Slide Generation and Speech**|Tushar Aggarwal et.al.|[2501.06497](http://arxiv.org/abs/2501.06497)|**[link](https://github.com/aggarwaltushar/pass)**|
 |**2025-01-01**|**AutoPresent: Designing Structured Visuals from Scratch**|Jiaxin Ge et.al.|[2501.00912](http://arxiv.org/abs/2501.00912)|**[link](https://github.com/para-lost/AutoPresent)**|
