@@ -76,7 +76,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |---|---|---|---|---|
 |**2025-02-17**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128](http://arxiv.org/abs/2502.12128)|null|
 |**2025-02-11**|**VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation**|Manan Suri et.al.|[2412.10704](http://arxiv.org/abs/2412.10704)|null|
-|**2025-01-15**|**PASS: Presentation Automation for Slide Generation and Speech**|Tushar Aggarwal et.al.|[2501.06497](http://arxiv.org/abs/2501.06497)|**[link](https://github.com/aggarwaltushar/pass)**|
+|**2025-01-15**|**PASS: Presentation Automation for Slide Generation and Speech**|Tushar Aggarwal et.al.|[2501.06497](http://arxiv.org/abs/2501.06497)|null|
 |**2025-01-01**|**AutoPresent: Designing Structured Visuals from Scratch**|Jiaxin Ge et.al.|[2501.00912](http://arxiv.org/abs/2501.00912)|**[link](https://github.com/para-lost/AutoPresent)**|
 |**2024-11-20**|**SlideSpawn: An Automatic Slides Generation System for Research Publications**|Keshav Kumar et.al.|[2411.17719](http://arxiv.org/abs/2411.17719)|null|
 |**2024-11-15**|**Increasing the Accessibility of Causal Domain Knowledge via Causal Information Extraction Methods: A Case Study in the Semiconductor Manufacturing Industry**|Houssam Razouk et.al.|[2411.10172](http://arxiv.org/abs/2411.10172)|null|
