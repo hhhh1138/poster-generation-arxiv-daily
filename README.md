@@ -50,6 +50,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**PosterSum: A Multimodal Benchmark for Scientific Poster Summarization**|Rohit Saxena et.al.|[2502.17540](http://arxiv.org/abs/2502.17540)|null|
 |**2025-02-12**|**GlyphDraw2: Automatic Generation of Complex Glyph Posters with Diffusion Models and Large Language Models**|Jian Ma et.al.|[2407.02252](http://arxiv.org/abs/2407.02252)|**[link](https://github.com/oppo-mente-lab/glyphdraw2)**|
 |**2025-02-02**|**Personalized Image Generation with Large Multimodal Models**|Yiyan Xu et.al.|[2410.14170](http://arxiv.org/abs/2410.14170)|**[link](https://github.com/yiyanxu/pigeon)**|
 |**2024-11-26**|**LTOS: Layout-controllable Text-Object Synthesis via Adaptive Cross-attention Fusions**|Xiaoran Zhao et.al.|[2404.13579](http://arxiv.org/abs/2404.13579)|null|
@@ -123,6 +124,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**FoREST: Frame of Reference Evaluation in Spatial Reasoning Tasks**|Tanawan Premsri et.al.|[2502.17775](http://arxiv.org/abs/2502.17775)|null|
 |**2025-02-24**|**Decoupling Layout from Glyph in Online Chinese Handwriting Generation**|Min-Si Ren et.al.|[2410.02309](http://arxiv.org/abs/2410.02309)|null|
 |**2025-02-21**|**Textual-to-Visual Iterative Self-Verification for Slide Generation**|Yunqing Xu et.al.|[2502.15412](http://arxiv.org/abs/2502.15412)|null|
 |**2025-02-19**|**Smaller But Better: Unifying Layout Generation with Smaller Large Language Models**|Peirong Zhang et.al.|[2502.14005](http://arxiv.org/abs/2502.14005)|**[link](https://github.com/niceringnode/lggpt)**|
