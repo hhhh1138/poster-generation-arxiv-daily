@@ -125,6 +125,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**HSM: Hierarchical Scene Motifs for Multi-Scale Indoor Scene Generation**|Hou In Derek Pun et.al.|[2503.16848](http://arxiv.org/abs/2503.16848)|null|
 |**2025-03-14**|**Compositional Generative Model of Unbounded 4D Cities**|Haozhe Xie et.al.|[2501.08983](http://arxiv.org/abs/2501.08983)|**[link](https://github.com/hzxie/CityDreamer4D)**|
 |**2025-03-14**|**CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation**|Hui Zhang et.al.|[2412.03859](http://arxiv.org/abs/2412.03859)|null|
 |**2025-03-12**|**SLayR: Scene Layout Generation with Rectified Flow**|Cameron Braunstein et.al.|[2412.05003](http://arxiv.org/abs/2412.05003)|null|
