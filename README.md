@@ -125,6 +125,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**BADGR: Bundle Adjustment Diffusion Conditioned by GRadients for Wide-Baseline Floor Plan Reconstruction**|Yuguang Li et.al.|[2503.19340](http://arxiv.org/abs/2503.19340)|null|
 |**2025-03-24**|**MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse**|Zhenyu Pan et.al.|[2503.18470](http://arxiv.org/abs/2503.18470)|null|
 |**2025-03-21**|**HSM: Hierarchical Scene Motifs for Multi-Scale Indoor Scene Generation**|Hou In Derek Pun et.al.|[2503.16848](http://arxiv.org/abs/2503.16848)|null|
 |**2025-03-14**|**Compositional Generative Model of Unbounded 4D Cities**|Haozhe Xie et.al.|[2501.08983](http://arxiv.org/abs/2501.08983)|**[link](https://github.com/hzxie/CityDreamer4D)**|
