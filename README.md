@@ -125,6 +125,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**Imperative vs. Declarative Programming Paradigms for Open-Universe Scene Generation**|Maxim Gumin et.al.|[2504.05482](http://arxiv.org/abs/2504.05482)|null|
 |**2025-03-27**|**Efficient Multi-Instance Generation with Janus-Pro-Dirven Prompt Parsing**|Fan Qi et.al.|[2503.21069](http://arxiv.org/abs/2503.21069)|null|
 |**2025-03-26**|**RelTriple: Learning Plausible Indoor Layouts by Integrating Relationship Triples into the Diffusion Process**|Kaifan Sun et.al.|[2503.20289](http://arxiv.org/abs/2503.20289)|null|
 |**2025-03-25**|**BADGR: Bundle Adjustment Diffusion Conditioned by GRadients for Wide-Baseline Floor Plan Reconstruction**|Yuguang Li et.al.|[2503.19340](http://arxiv.org/abs/2503.19340)|null|
