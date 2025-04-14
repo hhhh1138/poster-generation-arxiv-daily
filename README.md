@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Poster Generation Research Papers (With GPT Analysis)
-### Automatically Updated on 2025.04.13
+### Automatically Updated on 2025.04.14
 Current Search Keywords: `Poster Generaton`, `Slides Generation`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -71,7 +71,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2017-02-21**|**Learning to Generate Posters of Scientific Papers by Probabilistic Graphical Models**|Yu-ting Qiang et.al.|[1702.06228](http://arxiv.org/abs/1702.06228)|null|
 |**2016-04-05**|**Learning to Generate Posters of Scientific Papers**|Yuting Qiang et.al.|[1604.01219](http://arxiv.org/abs/1604.01219)|null|
 
-<p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
 
 ## Slides Generation
 
@@ -120,12 +120,13 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2013-07-25**|**On Poincaré-Bendixson Theorem and Non-Trivial Minimal Sets in Planar Nonsmooth Vector Fields**|Tiago de Carvalho et.al.|[1307.6825](http://arxiv.org/abs/1307.6825)|null|
 |**2010-03-18**|**Sliding window approach based Text Binarisation from Complex Textual images**|Chitrakala Gopalan et.al.|[1003.3654](http://arxiv.org/abs/1003.3654)|null|
 
-<p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
 
 ## Layout Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**CityGen: Infinite and Controllable City Layout Generation**|Jie Deng et.al.|[2312.01508](http://arxiv.org/abs/2312.01508)|null|
 |**2025-04-07**|**Imperative vs. Declarative Programming Paradigms for Open-Universe Scene Generation**|Maxim Gumin et.al.|[2504.05482](http://arxiv.org/abs/2504.05482)|null|
 |**2025-03-27**|**Efficient Multi-Instance Generation with Janus-Pro-Dirven Prompt Parsing**|Fan Qi et.al.|[2503.21069](http://arxiv.org/abs/2503.21069)|null|
 |**2025-03-26**|**RelTriple: Learning Plausible Indoor Layouts by Integrating Relationship Triples into the Diffusion Process**|Kaifan Sun et.al.|[2503.20289](http://arxiv.org/abs/2503.20289)|null|
@@ -205,7 +206,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-01-29**|**Spot the Error: Non-autoregressive Graphic Layout Generation with Wireframe Locator**|Jieru Lin et.al.|[2401.16375](http://arxiv.org/abs/2401.16375)|**[link](https://github.com/ffffatgoose/spoterror)**|
 |**2024-01-15**|**Graph Transformer GANs with Graph Masked Modeling for Architectural Layout Generation**|Hao Tang et.al.|[2401.07721](http://arxiv.org/abs/2401.07721)|null|
 |**2024-01-11**|**Relation-Aware Diffusion Model for Controllable Poster Layout Generation**|Fengheng Li et.al.|[2306.09086](http://arxiv.org/abs/2306.09086)|**[link](https://github.com/liuan0803/radm)**|
-|**2023-12-03**|**CityGen: Infinite and Controllable 3D City Layout Generation**|Jie Deng et.al.|[2312.01508](http://arxiv.org/abs/2312.01508)|null|
 |**2023-11-30**|**Detailed Human-Centric Text Description-Driven Large Scene Synthesis**|Gwanghyun Kim et.al.|[2311.18654](http://arxiv.org/abs/2311.18654)|null|
 |**2023-11-28**|**Reason out Your Layout: Evoking the Layout Master from Large Language Models for Text-to-Image Synthesis**|Xiaohui Chen et.al.|[2311.17126](http://arxiv.org/abs/2311.17126)|null|
 |**2023-11-11**|**LayoutPrompter: Awaken the Design Ability of Large Language Models**|Jiawei Lin et.al.|[2311.06495](http://arxiv.org/abs/2311.06495)|**[link](https://github.com/microsoft/layoutgeneration)**|
@@ -251,7 +251,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2021-08-02**|**Automatic Polygon Layout for Primal-Dual Visualization of Hypergraphs**|Botong Qu et.al.|[2108.00671](http://arxiv.org/abs/2108.00671)|null|
 |**2021-07-09**|**NVCell: Standard Cell Layout in Advanced Technology Nodes with Reinforcement Learning**|Haoxing Ren et.al.|[2107.07044](http://arxiv.org/abs/2107.07044)|null|
 
-<p align=right>(<a href=#updated-on-20250413>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250414>back to top</a>)</p>
 
 Notes: 
 
