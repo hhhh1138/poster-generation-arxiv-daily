@@ -126,6 +126,9 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Decoupled Diffusion Sparks Adaptive Scene Generation**|Yunsong Zhou et.al.|[2504.10485](http://arxiv.org/abs/2504.10485)|null|
+|**2025-04-14**|**Hierarchical and Step-Layer-Wise Tuning of Attention Specialty for Multi-Instance Synthesis in Diffusion Transformers**|Chunyang Zhang et.al.|[2504.10148](http://arxiv.org/abs/2504.10148)|null|
+|**2025-04-13**|**Computer-Aided Layout Generation for Building Design: A Review**|Jiachen Liu et.al.|[2504.09694](http://arxiv.org/abs/2504.09694)|null|
 |**2025-04-11**|**CityGen: Infinite and Controllable City Layout Generation**|Jie Deng et.al.|[2312.01508](http://arxiv.org/abs/2312.01508)|null|
 |**2025-04-07**|**Imperative vs. Declarative Programming Paradigms for Open-Universe Scene Generation**|Maxim Gumin et.al.|[2504.05482](http://arxiv.org/abs/2504.05482)|null|
 |**2025-03-27**|**Efficient Multi-Instance Generation with Janus-Pro-Dirven Prompt Parsing**|Fan Qi et.al.|[2503.21069](http://arxiv.org/abs/2503.21069)|null|
