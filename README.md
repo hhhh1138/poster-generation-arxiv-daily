@@ -126,6 +126,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**LayoutCoT: Unleashing the Deep Reasoning Potential of Large Language Models for Layout Generation**|Hengyu Shi et.al.|[2504.10829](http://arxiv.org/abs/2504.10829)|null|
+|**2025-04-14**|**Relation-Rich Visual Document Generator for Visual Information Extraction**|Zi-Han Jiang et.al.|[2504.10659](http://arxiv.org/abs/2504.10659)|null|
 |**2025-04-14**|**Decoupled Diffusion Sparks Adaptive Scene Generation**|Yunsong Zhou et.al.|[2504.10485](http://arxiv.org/abs/2504.10485)|null|
 |**2025-04-14**|**Hierarchical and Step-Layer-Wise Tuning of Attention Specialty for Multi-Instance Synthesis in Diffusion Transformers**|Chunyang Zhang et.al.|[2504.10148](http://arxiv.org/abs/2504.10148)|null|
 |**2025-04-13**|**Computer-Aided Layout Generation for Building Design: A Review**|Jiachen Liu et.al.|[2504.09694](http://arxiv.org/abs/2504.09694)|null|
