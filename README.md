@@ -77,6 +77,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Chinese-LiPS: A Chinese audio-visual speech recognition dataset with Lip-reading and Presentation Slides**|Jinghua Zhao et.al.|[2504.15066](http://arxiv.org/abs/2504.15066)|null|
 |**2025-03-04**|**Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models**|Qianqi Yan et.al.|[2502.16033](http://arxiv.org/abs/2502.16033)|null|
 |**2025-02-21**|**Textual-to-Visual Iterative Self-Verification for Slide Generation**|Yunqing Xu et.al.|[2502.15412](http://arxiv.org/abs/2502.15412)|null|
 |**2025-02-21**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128](http://arxiv.org/abs/2502.12128)|**[link](https://github.com/ml-jku/lam-slide)**|
