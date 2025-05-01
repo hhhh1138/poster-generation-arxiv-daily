@@ -175,7 +175,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2024-09-30**|**LayoutDETR: Detection Transformer Is a Good Multimodal Layout Designer**|Ning Yu et.al.|[2212.09877](http://arxiv.org/abs/2212.09877)|**[link](https://github.com/salesforce/layoutdetr)**|
 |**2024-09-25**|**Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model**|Shoma Iwai et.al.|[2409.16689](http://arxiv.org/abs/2409.16689)|null|
 |**2024-09-15**|**Layout Agnostic Scene Text Image Synthesis with Diffusion Models**|Qilong Zhangli et.al.|[2406.01062](http://arxiv.org/abs/2406.01062)|null|
-|**2024-09-06**|**UniPortrait: A Unified Framework for Identity-Preserving Single- and Multi-Human Image Personalization**|Junjie He et.al.|[2408.05939](http://arxiv.org/abs/2408.05939)|null|
+|**2024-09-06**|**UniPortrait: A Unified Framework for Identity-Preserving Single- and Multi-Human Image Personalization**|Junjie He et.al.|[2408.05939](http://arxiv.org/abs/2408.05939)|**[link](https://github.com/junjiehe96/UniPortrait)**|
 |**2024-09-04**|**Spatial Diffusion for Cell Layout Generation**|Chen Li et.al.|[2409.03106](http://arxiv.org/abs/2409.03106)|**[link](https://github.com/superlc1995/diffusion-cell)**|
 |**2024-09-03**|**Planning and Rendering: Towards Product Poster Generation with Diffusion Models**|Zhaochen Li et.al.|[2312.08822](http://arxiv.org/abs/2312.08822)|null|
 |**2024-08-26**|**Planner3D: LLM-enhanced graph prior meets 3D indoor scene explicit regularization**|Yao Wei et.al.|[2403.12848](http://arxiv.org/abs/2403.12848)|null|
