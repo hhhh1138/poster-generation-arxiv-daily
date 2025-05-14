@@ -130,6 +130,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |---|---|---|---|---|
 |**2025-05-07**|**Lay-Your-Scene: Natural Scene Layout Generation with Diffusion Transformers**|Divyansh Srivastava et.al.|[2505.04718](http://arxiv.org/abs/2505.04718)|null|
 |**2025-05-07**|**BuildingBlock: A Hybrid Approach for Structured Building Generation**|Junming Huang et.al.|[2505.04051](http://arxiv.org/abs/2505.04051)|null|
+|**2025-05-06**|**PosterO: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation**|HsiaoYuan Hsu et.al.|[2505.07843](http://arxiv.org/abs/2505.07843)|null|
 |**2025-05-02**|**Generating Animated Layouts as Structured Text Representations**|Yeonsang Shin et.al.|[2505.00975](http://arxiv.org/abs/2505.00975)|null|
 |**2025-04-21**|**Hierarchical and Step-Layer-Wise Tuning of Attention Specialty for Multi-Instance Synthesis in Diffusion Transformers**|Chunyang Zhang et.al.|[2504.10148](http://arxiv.org/abs/2504.10148)|null|
 |**2025-04-15**|**LayoutCoT: Unleashing the Deep Reasoning Potential of Large Language Models for Layout Generation**|Hengyu Shi et.al.|[2504.10829](http://arxiv.org/abs/2504.10829)|null|
