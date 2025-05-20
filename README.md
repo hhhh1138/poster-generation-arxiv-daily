@@ -78,6 +78,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-17**|**MARFT: Multi-Agent Reinforcement Fine-Tuning**|Junwei Liao et.al.|[2504.16129](http://arxiv.org/abs/2504.16129)|**[link](https://github.com/jwliao-ai/marft)**|
+|**2025-05-16**|**Talk to Your Slides: Efficient Slide Editing Agent with Large Language Models**|Kyudan Jung et.al.|[2505.11604](http://arxiv.org/abs/2505.11604)|null|
 |**2025-04-21**|**Chinese-LiPS: A Chinese audio-visual speech recognition dataset with Lip-reading and Presentation Slides**|Jinghua Zhao et.al.|[2504.15066](http://arxiv.org/abs/2504.15066)|null|
 |**2025-03-04**|**Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models**|Qianqi Yan et.al.|[2502.16033](http://arxiv.org/abs/2502.16033)|null|
 |**2025-02-21**|**Textual-to-Visual Iterative Self-Verification for Slide Generation**|Yunqing Xu et.al.|[2502.15412](http://arxiv.org/abs/2502.15412)|null|
