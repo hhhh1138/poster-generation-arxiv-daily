@@ -78,7 +78,9 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-25**|**DocMMIR: A Framework for Document Multi-modal Information Retrieval**|Zirui Li et.al.|[2505.19312](http://arxiv.org/abs/2505.19312)|null|
 |**2025-05-25**|**Talk to Your Slides: Language-Driven Agents for Efficient Slide Editing**|Kyudan Jung et.al.|[2505.11604](http://arxiv.org/abs/2505.11604)|**[link](https://github.com/KyuDan1/Talk-to-Your-Slides)**|
+|**2025-05-23**|**Taming LLMs with Negative Samples: A Reference-Free Framework to Evaluate Presentation Content with Actionable Feedback**|Ananth Muppidi et.al.|[2505.18240](http://arxiv.org/abs/2505.18240)|null|
 |**2025-05-21**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128](http://arxiv.org/abs/2502.12128)|**[link](https://github.com/ml-jku/lam-slide)**|
 |**2025-05-17**|**MARFT: Multi-Agent Reinforcement Fine-Tuning**|Junwei Liao et.al.|[2504.16129](http://arxiv.org/abs/2504.16129)|**[link](https://github.com/jwliao-ai/marft)**|
 |**2025-04-21**|**Chinese-LiPS: A Chinese audio-visual speech recognition dataset with Lip-reading and Presentation Slides**|Jinghua Zhao et.al.|[2504.15066](http://arxiv.org/abs/2504.15066)|null|
@@ -130,6 +132,8 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Aggregated Structural Representation with Large Language Models for Human-Centric Layout Generation**|Jiongchao Jin et.al.|[2505.19554](http://arxiv.org/abs/2505.19554)|null|
+|**2025-05-25**|**TextDiffuser-RL: Efficient and Robust Text Layout Optimization for High-Fidelity Text-to-Image Synthesis**|Kazi Mahathir Rahman et.al.|[2505.19291](http://arxiv.org/abs/2505.19291)|null|
 |**2025-05-23**|**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**|Chuan Fang et.al.|[2310.03602](http://arxiv.org/abs/2310.03602)|null|
 |**2025-05-22**|**FoREST: Frame of Reference Evaluation in Spatial Reasoning Tasks**|Tanawan Premsri et.al.|[2502.17775](http://arxiv.org/abs/2502.17775)|**[link](https://github.com/HLR/FoREST)**|
 |**2025-05-07**|**Lay-Your-Scene: Natural Scene Layout Generation with Diffusion Transformers**|Divyansh Srivastava et.al.|[2505.04718](http://arxiv.org/abs/2505.04718)|null|
