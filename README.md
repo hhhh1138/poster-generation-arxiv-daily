@@ -134,6 +134,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341](http://arxiv.org/abs/2506.05341)|null|
 |**2025-06-03**|**LayoutRAG: Retrieval-Augmented Model for Content-agnostic Conditional Layout Generation**|Yuxuan Wu et.al.|[2506.02697](http://arxiv.org/abs/2506.02697)|null|
 |**2025-05-30**|**AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation**|Junhao Cheng et.al.|[2406.01388](http://arxiv.org/abs/2406.01388)|**[link](https://github.com/donahowe/AutoStudio)**|
 |**2025-05-27**|**Scan-and-Print: Patch-level Data Summarization and Augmentation for Content-aware Layout Generation in Poster Design**|HsiaoYuan Hsu et.al.|[2505.20649](http://arxiv.org/abs/2505.20649)|null|
