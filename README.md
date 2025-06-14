@@ -82,7 +82,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-10**|**Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models**|Qianqi Yan et.al.|[2502.16033](http://arxiv.org/abs/2502.16033)|null|
-|**2025-06-09**|**SlideCoder: Layout-aware RAG-enhanced Hierarchical Slide Generation from Design**|Wenxin Tang et.al.|[2506.07964](http://arxiv.org/abs/2506.07964)|null|
+|**2025-06-09**|**SlideCoder: Layout-aware RAG-enhanced Hierarchical Slide Generation from Design**|Wenxin Tang et.al.|[2506.07964](http://arxiv.org/abs/2506.07964)|**[link](https://github.com/vinsontang1/slidecoder)**|
 |**2025-06-06**|**Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks**|Mengzhao Jia et.al.|[2410.01744](http://arxiv.org/abs/2410.01744)|**[link](https://github.com/jill0001/leopard)**|
 |**2025-05-29**|**DocMMIR: A Framework for Document Multi-modal Information Retrieval**|Zirui Li et.al.|[2505.19312](http://arxiv.org/abs/2505.19312)|null|
 |**2025-05-25**|**Talk to Your Slides: Language-Driven Agents for Efficient Slide Editing**|Kyudan Jung et.al.|[2505.11604](http://arxiv.org/abs/2505.11604)|**[link](https://github.com/KyuDan1/Talk-to-Your-Slides)**|
