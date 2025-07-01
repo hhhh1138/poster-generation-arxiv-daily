@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Poster Generation Research Papers (With GPT Analysis)
-### Automatically Updated on 2025.06.30
+### Automatically Updated on 2025.07.01
 Current Search Keywords: `Poster Generaton`, `Slides Generation`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -75,7 +75,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2017-02-21**|**Learning to Generate Posters of Scientific Papers by Probabilistic Graphical Models**|Yu-ting Qiang et.al.|[1702.06228](http://arxiv.org/abs/1702.06228)|null|
 |**2016-04-05**|**Learning to Generate Posters of Scientific Papers**|Yuting Qiang et.al.|[1604.01219](http://arxiv.org/abs/1604.01219)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Slides Generation
 
@@ -130,12 +130,13 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2013-07-25**|**On Poincaré-Bendixson Theorem and Non-Trivial Minimal Sets in Planar Nonsmooth Vector Fields**|Tiago de Carvalho et.al.|[1307.6825](http://arxiv.org/abs/1307.6825)|null|
 |**2010-03-18**|**Sliding window approach based Text Binarisation from Complex Textual images**|Chitrakala Gopalan et.al.|[1003.3654](http://arxiv.org/abs/1003.3654)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Layout Generation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-28**|**Compositional Generative Model of Unbounded 4D Cities**|Haozhe Xie et.al.|[2501.08983](http://arxiv.org/abs/2501.08983)|**[link](https://github.com/hzxie/CityDreamer4D)**|
 |**2025-06-27**|**CAL-RAG: Retrieval-Augmented Multi-Agent Generation for Content-Aware Layout Design**|Najmeh Forouzandehmehr et.al.|[2506.21934](http://arxiv.org/abs/2506.21934)|null|
 |**2025-06-16**|**EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence**|Xinjie Wang et.al.|[2506.10600](http://arxiv.org/abs/2506.10600)|null|
 |**2025-06-09**|**LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization**|Yixuan Yang et.al.|[2506.07570](http://arxiv.org/abs/2506.07570)|null|
@@ -165,7 +166,6 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2025-03-25**|**BADGR: Bundle Adjustment Diffusion Conditioned by GRadients for Wide-Baseline Floor Plan Reconstruction**|Yuguang Li et.al.|[2503.19340](http://arxiv.org/abs/2503.19340)|null|
 |**2025-03-24**|**MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse**|Zhenyu Pan et.al.|[2503.18470](http://arxiv.org/abs/2503.18470)|**[link](https://github.com/pzyseere/metaspatial)**|
 |**2025-03-21**|**HSM: Hierarchical Scene Motifs for Multi-Scale Indoor Scene Generation**|Hou In Derek Pun et.al.|[2503.16848](http://arxiv.org/abs/2503.16848)|null|
-|**2025-03-14**|**Compositional Generative Model of Unbounded 4D Cities**|Haozhe Xie et.al.|[2501.08983](http://arxiv.org/abs/2501.08983)|**[link](https://github.com/hzxie/CityDreamer4D)**|
 |**2025-03-14**|**CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation**|Hui Zhang et.al.|[2412.03859](http://arxiv.org/abs/2412.03859)|null|
 |**2025-03-12**|**SLayR: Scene Layout Generation with Rectified Flow**|Cameron Braunstein et.al.|[2412.05003](http://arxiv.org/abs/2412.05003)|null|
 |**2025-03-11**|**VASCAR: Content-Aware Layout Generation via Visual-Aware Self-Correction**|Jiahao Zhang et.al.|[2412.04237](http://arxiv.org/abs/2412.04237)|null|
@@ -281,7 +281,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 |**2021-08-02**|**Automatic Polygon Layout for Primal-Dual Visualization of Hypergraphs**|Botong Qu et.al.|[2108.00671](http://arxiv.org/abs/2108.00671)|null|
 |**2021-07-09**|**NVCell: Standard Cell Layout in Advanced Technology Nodes with Reinforcement Learning**|Haoxing Ren et.al.|[2107.07044](http://arxiv.org/abs/2107.07044)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 Notes: 
 
