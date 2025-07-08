@@ -50,6 +50,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-06**|**DreamPoster: A Unified Framework for Image-Conditioned Generative Poster Design**|Xiwei Hu et.al.|[2507.04218](http://arxiv.org/abs/2507.04218)|null|
 |**2025-06-12**|**PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework**|SiXiang Chen et.al.|[2506.10741](http://arxiv.org/abs/2506.10741)|null|
 |**2025-06-03**|**Generalized Category Discovery via Reciprocal Learning and Class-Wise Distribution Regularization**|Duo Liu et.al.|[2506.02334](http://arxiv.org/abs/2506.02334)|null|
 |**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497](http://arxiv.org/abs/2505.21497)|**[link](https://github.com/paper2poster/paper2poster)**|
@@ -81,6 +82,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-05**|**Animation Needs Attention: A Holistic Approach to Slides Animation Comprehension with Visual-Language Models**|Yifan Jiang et.al.|[2507.03916](http://arxiv.org/abs/2507.03916)|null|
 |**2025-06-30**|**AI-Generated Lecture Slides for Improving Slide Element Detection and Retrieval**|Suyash Maniyar et.al.|[2506.23605](http://arxiv.org/abs/2506.23605)|null|
 |**2025-06-19**|**AutoPresent: Designing Structured Visuals from Scratch**|Jiaxin Ge et.al.|[2501.00912](http://arxiv.org/abs/2501.00912)|**[link](https://github.com/para-lost/AutoPresent)**|
 |**2025-06-10**|**Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models**|Qianqi Yan et.al.|[2502.16033](http://arxiv.org/abs/2502.16033)|null|
