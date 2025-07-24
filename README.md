@@ -82,6 +82,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**DesignLab: Designing Slides Through Iterative Detection and Correction**|Jooyeol Yun et.al.|[2507.17202](http://arxiv.org/abs/2507.17202)|null|
 |**2025-07-14**|**A Matrix Completion Approach for the Construction of MDP Convolutional Codes**|Sakshi Dang et.al.|[2507.10417](http://arxiv.org/abs/2507.10417)|null|
 |**2025-07-09**|**Animation Needs Attention: A Holistic Approach to Slides Animation Comprehension with Visual-Language Models**|Yifan Jiang et.al.|[2507.03916](http://arxiv.org/abs/2507.03916)|null|
 |**2025-06-30**|**AI-Generated Lecture Slides for Improving Slide Element Detection and Retrieval**|Suyash Maniyar et.al.|[2506.23605](http://arxiv.org/abs/2506.23605)|null|
